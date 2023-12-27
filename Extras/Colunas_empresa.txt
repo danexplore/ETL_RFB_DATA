@@ -1,0 +1,8 @@
+Colunas;EMPRE
+1;"CNPJ Básico"
+2;"Razão Social"
+3;"Natureza Jurídica"
+4;"Qualificação do Responsável"
+5;"Capital Social"
+6;"Porte da Empresa"
+7;"Ente Federativo Responsável"

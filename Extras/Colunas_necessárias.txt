@@ -1,0 +1,4 @@
+Empresas[0,1,4,5]
+Estabelecimentos[0,3,4,5,6,11,12,19,20,27,30]
+""" Cnaes secundarios da coluna [12;Estabelecimentos] são delimitados por ',' se houver mais de 1 Cnae
+Cnae[0,1]
