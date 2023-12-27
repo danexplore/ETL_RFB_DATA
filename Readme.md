@@ -14,7 +14,9 @@ Este projeto realiza a extração, transformação e carga (ETL) dos dados públ
 
 * Bibliotecas Python específicas listadas no arquivo **requirements.txt**
 
-#### Fonte oficial da Receita Federal do Brasil: [SITE](https://dadosabertos.rfb.gov.br/CNPJ/)
+## Fontes
+* Fonte oficial da Receita Federal do Brasil: [SITE](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)
+* Fonte separa para download dos arquivos: [SITE](https://dadosabertos.rfb.gov.br/CNPJ/)
 
 #### Arquivos baixados:
 * Cnaes.zip
