@@ -1,4 +1,22 @@
 Empresas[0,1,4,5]
 Estabelecimentos[0,3,4,5,6,11,12,19,20,27,30]
 """ Cnaes secundarios da coluna [12;Estabelecimentos] são delimitados por ',' se houver mais de 1 Cnae
-Cnae[0,1]
+
+Colunas das Empresas particionadas
+1: CNPJ Básico
+2: Razão Social
+3: Capital Social
+4: Porte da Empresa
+
+Coluans dos Estabelecimentos particionados
+1: CNPJ Básico
+2: Matriz/Filial 1,2
+3: Nome Fantasia
+4: Situação Cadastral
+5: Data da Situação Cadastral
+6: Cnae Principal
+7: Cnae Secundário
+8: UF
+9: Município
+10: Correio Eletrônico
+11: CNPJ Completo

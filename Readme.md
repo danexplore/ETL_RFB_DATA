@@ -7,7 +7,7 @@ Este projeto realiza a extração, transformação e carga (ETL) dos dados públ
 
 * **Transformar:** Transformar os dados brutos em dados necessários para utilização pessoal.
 
-* **Carregar:** Apresenta os dados de forma amigável, utilizando gráficos e tabelas, facilitando o uso dos dados.
+* **Carregar:** Apresentar os dados de forma amigável, utilizando tabelas, facilitando o uso dos dados.
 
 ## Requisitos do Sistema
 * Python (versão utilizada 3.12)
@@ -16,7 +16,7 @@ Este projeto realiza a extração, transformação e carga (ETL) dos dados públ
 
 ## Fontes
 * Fonte oficial da Receita Federal do Brasil: [SITE](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)
-* Fonte separa para download dos arquivos: [SITE](https://dadosabertos.rfb.gov.br/CNPJ/)
+* Fonte separada para download dos arquivos: [SITE](https://dadosabertos.rfb.gov.br/CNPJ/)
 
 #### Arquivos baixados:
 * Cnaes.zip
