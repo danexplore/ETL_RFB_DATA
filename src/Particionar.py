@@ -37,10 +37,3 @@ for i, arquivo in enumerate(arq_estabelecimentos):
     
     df_emp = pd.read_csv(estab_path, sep=';', header=None, usecols=colunas_necessarias_estabelecimentos)
     df_emp.to_csv(estab_part_path, sep=';', index=False, header=False)
-
-# To do ✅:
-# Particionar arquivos de acordo com as colunas necessárias ✅
-# armazenar os arquivos particionados na pasta 'Dados_particionados' ✅
-# ler todos os arquivos e criar uma gui para filtrar por cnae e UF
-# Inserir os dados filtrados em uma planihla excel.
-# Usufruir do código!
