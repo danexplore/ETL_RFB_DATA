@@ -1,0 +1,5571 @@
+﻿
+1:Guajará-Mirim
+2:Alto Alegre dos Parecis
+3:Porto Velho
+4:Buritis
+5:Ji-Paraná
+6:Chupinguaia
+7:Ariquemes
+8:Cujubim
+9:Cacoal
+10:Nova União
+11:Pimenta Bueno
+12:Parecis
+13:Vilhena
+14:Pimenteiras do Oeste
+15:Jaru
+16:Primavera de Rondônia
+17:Ouro Preto do Oeste
+18:São Felipe D'Oeste
+19:Presidente Médici
+20:São Francisco do Guaporé
+21:Costa Marques
+22:Teixeirópolis
+23:Colorado do Oeste
+24:Vale do Anari
+25:Espigão D'Oeste
+26:Amajari
+27:Cerejeiras
+28:Cantá
+29:Rolim de Moura
+30:Caroebe
+31:Caldazinha
+32:Iracema
+33:Alta Floresta D'Oeste
+34:Pacaraima
+35:Alvorada D'Oeste
+36:Rorainópolis
+37:Cabixi
+38:Uiramutã
+39:Machadinho D'Oeste
+40:Anapu
+41:Nova Brasilândia D'Oeste
+42:Bannach
+43:Santa Luzia D'Oeste
+44:Belterra
+45:São Miguel do Guaporé
+46:Cachoeira do Piriá
+47:Nova Mamoré
+48:Canaã dos Carajás
+49:Jesúpolis
+50:Curuá
+51:Professor Jamil
+52:Floresta do Araguaia
+53:Santo Antônio de Goiás
+54:Marituba
+55:Cocalzinho de Goiás
+56:Nova Ipixuna
+57:Terezópolis de Goiás
+58:Piçarra
+59:Uirapuru
+60:Placas
+61:Buritinópolis
+62:Quatipuru
+63:Buriti de Goiás
+64:São João da Ponta
+65:Guaraíta
+66:Sapucaia
+67:Vila Boa
+68:Tracuateua
+69:Inaciolândia
+70:Vitória do Jari
+71:Aparecida do Rio Doce
+72:Aguiarnópolis
+73:Chapadão do Céu
+74:Bandeirantes do Tocantins
+75:Perolândia
+76:Barra do Ouro
+77:Cidade Ocidental
+78:Chapada de Areia
+79:Montividiu do Norte
+80:Chapada da Natividade
+81:Castelândia
+82:Crixás do Tocantins
+83:Santo Antônio da Barra
+84:Ipueiras
+85:Alto Horizonte
+86:Lavandeira
+87:Nova Iguaçu de Goiás
+88:Luzinópolis
+89:Cotriguaçu
+90:Monte Santo do Tocantins
+91:Planalto da Serra
+92:Oliveira de Fátima
+93:São Pedro da Cipa
+94:Pugmil
+95:Pontal do Araguaia
+96:Santa Rita do Tocantins
+97:Querência
+98:Santa Terezinha do Tocantins
+99:Ribeirãozinho
+100:Talismã
+101:Porto Estrela
+102:Tupirama
+103:Nova Marilândia
+104:Água Doce do Maranhão
+105:Brasiléia
+106:Alto Alegre do Maranhão
+107:Cruzeiro do Sul
+108:Alto Alegre do Pindaré
+109:Mâncio Lima
+110:Amapá do Maranhão
+111:Nova Maringá
+112:Apicum-Açu
+113:Feijó
+114:Araguanã
+115:Santo Afonso
+116:Bacabeira
+117:Nova Bandeirantes
+118:Bacurituba
+119:Nova Monte Verde
+120:Belágua
+121:Nova Guarita
+122:Bela Vista do Maranhão
+123:Santa Carmem
+124:Bernardo do Mearim
+125:Tabaporã
+126:Boa Vista do Gurupi
+127:Alto Boa Vista
+128:Bom Jesus das Selvas
+129:Canabrava do Norte
+130:Bom Lugar
+131:Confresa
+132:Brejo de Areia
+133:São José do Xingu
+134:Buriticupu
+135:Glória D'Oeste
+136:Buritirana
+137:Lambari D'Oeste
+138:Cachoeira Grande
+139:Rio Branco
+140:Campestre do Maranhão
+141:Alcinópolis
+142:Capinzal do Norte
+143:Nova Alvorada do Sul
+144:Central do Maranhão
+145:Sena Madureira
+146:Centro do Guilherme
+147:Tarauacá
+148:Centro Novo do Maranhão
+149:Xapuri
+150:Cidelândia
+151:Plácido de Castro
+152:Conceição do Lago-Açu
+153:Senador Guiomard
+154:Davinópolis
+155:Manoel Urbano
+156:Feira Nova do Maranhão
+157:Assis Brasil
+158:Fernando Falcão
+159:Novo Horizonte do Sul
+160:Formosa da Serra Negra
+161:Japorã
+162:Governador Edison Lobão
+163:Laguna Carapã
+164:Governador Luiz Rocha
+165:Angico
+166:Governador Newton Bello
+167:Aragominas
+168:Governador Nunes Freire
+169:Araguanã
+170:Igarapé do Meio
+171:Cachoeirinha
+172:Itaipava do Grajaú
+173:Campos Lindos
+174:Itinga do Maranhão
+175:Carmolândia
+176:Jatobá
+177:Carrasco Bonito
+178:Jenipapo dos Vieiras
+179:Darcinópolis
+180:Junco do Maranhão
+181:Esperantina
+182:Lagoa do Mato
+183:Maurilândia do Tocantins
+184:Lago dos Rodrigues
+185:Palmeiras do Tocantins
+186:Lagoa Grande do Maranhão
+187:Muricilândia
+188:Lajeado Novo
+189:Palmeirante
+190:Maracaçumé
+191:Pau D'Arco
+192:Marajá do Sena
+193:Riachinho
+194:Maranhãozinho
+195:Santa Fé do Araguaia
+196:Matões do Norte
+197:São Bento do Tocantins
+198:Milagres do Maranhão
+199:São Miguel do Tocantins
+200:Nova Colinas
+201:Novo Airão
+202:Nova Olinda do Maranhão
+203:Anori
+204:Olinda Nova do Maranhão
+205:Atalaia do Norte
+206:Paulino Neves
+207:Autazes
+208:Pedro do Rosário
+209:Barcelos
+210:Peritoró
+211:Barreirinha
+212:Porto Rico do Maranhão
+213:Benjamin Constant
+214:Presidente Médici
+215:Boca do Acre
+216:Presidente Sarney
+217:Borba
+218:Raposa
+219:Canutama
+220:Ribamar Fiquene
+221:Carauari
+222:Santa Filomena do Maranhão
+223:Careiro
+224:Santana do Maranhão
+225:Coari
+226:Santo Amaro do Maranhão
+227:Codajás
+228:São Domingos do Azeitão
+229:Eirunepé
+230:São Francisco do Brejão
+231:Envira
+232:São João do Carú
+233:Fonte Boa
+234:São João do Paraíso
+235:Humaitá
+236:São João do Soter
+237:Santa Isabel do Rio Negro
+238:São José dos Basílios
+239:Ipixuna
+240:São Pedro da Água Branca
+241:Itacoatiara
+242:São Pedro dos Crentes
+243:Itapiranga
+244:São Raimundo do Doca Bezerra
+245:Japurá
+246:São Roberto
+247:Juruá
+248:Satubinha
+249:Jutaí
+250:Senador Alexandre Costa
+251:Lábrea
+252:Senador La Rocque
+253:Manacapuru
+254:Serrano do Maranhão
+255:Manaus
+256:Sucupira do Riachão
+257:Manicoré
+258:Trizidela do Vale
+259:Maraã
+260:Tufilândia
+261:Maués
+262:Turilândia
+263:Nhamundá
+264:Vila Nova dos Martírios
+265:Nova Olinda do Norte
+266:Acauã
+267:Novo Aripuanã
+268:Alvorada do Gurguéia
+269:Parintins
+270:Assunção do Piauí
+271:Pauini
+272:Barra D'Alcântara
+273:Santo Antônio do Içá
+274:Bela Vista do Piauí
+275:São Paulo de Olivença
+276:Belém do Piauí
+277:Silves
+278:Betânia do Piauí
+279:Tapauá
+280:Boa Hora
+281:Tefé
+282:Boqueirão do Piauí
+283:São Gabriel da Cachoeira
+284:Brejo do Piauí
+285:Urucará
+286:Cajazeiras do Piauí
+287:Urucurituba
+288:Cajueiro da Praia
+289:Alvarães
+290:Campo Alegre do Fidalgo
+291:Amaturá
+292:Campo Grande do Piauí
+293:Anamã
+294:Campo Largo do Piauí
+295:Beruri
+296:Capitão Gervásio Oliveira
+297:Boa Vista do Ramos
+298:Caraúbas do Piauí
+299:Caapiranga
+300:Caridade do Piauí
+301:Boa Vista
+302:Caxingó
+303:Caracaraí
+304:Cocal de Telha
+305:Alto Alegre
+306:Cocal dos Alves
+307:Bonfim
+308:Currais
+309:Mucajaí
+310:Curralinhos
+311:Normandia
+312:Curral Novo do Piauí
+313:São João da Baliza
+314:Floresta do Piauí
+315:São Luiz
+316:Francisco Macedo
+317:Mateiros
+318:Geminiano
+320:Guaribas
+321:Novo Jardim
+322:Ilha Grande
+323:Rio da Conceição
+324:Jatobá do Piauí
+325:Taipas do Tocantins
+326:João Costa
+327:Cariri do Tocantins
+328:Joca Marques
+329:Jaú do Tocantins
+330:Juazeiro do Piauí
+331:Sandolândia
+332:Júlio Borges
+333:São Salvador do Tocantins
+334:Jurema
+335:Sucupira
+336:Lagoinha do Piauí
+337:Abreulândia
+338:Lagoa de São Francisco
+339:Brasilândia do Tocantins
+340:Lagoa do Piauí
+341:Bom Jesus do Tocantins
+342:Lagoa do Sítio
+343:Centenário
+344:Madeiro
+345:Tabocão
+346:Massapê do Piauí
+347:Itapiratins
+348:Milton Brandão
+349:Juarina
+350:Morro Cabeça no Tempo
+351:Lajeado
+352:Morro do Chapéu do Piauí
+353:Lagoa do Tocantins
+354:Murici dos Portelas
+355:Piraquê
+356:Nossa Senhora de Nazaré
+357:Recursolândia
+358:Novo Santo Antônio
+359:Rio dos Bois
+360:Olho D'Água do Piauí
+361:Santa Maria do Tocantins
+362:Pajeú do Piauí
+363:São Félix do Tocantins
+364:Paquetá
+365:Tupiratins
+366:Pavussu
+367:Lagoa da Confusão
+368:Pedro Laurentino
+369:Santa Bárbara do Pará
+370:Nova Santa Rita
+371:Santa Luzia do Pará
+372:Porto Alegre do Piauí
+373:Terra Alta
+374:Riacho Frio
+375:Abel Figueiredo
+376:Ribeira do Piauí
+377:Eldorado do Carajás
+378:Santo Antônio dos Milagres
+379:Palestina do Pará
+380:São Francisco de Assis do Piauí
+381:São Domingos do Araguaia
+382:São Gonçalo do Gurguéia
+383:Água Azul do Norte
+384:São João da Fronteira
+385:Cumaru do Norte
+386:São João da Varjota
+387:Pau D'Arco
+388:São João do Arraial
+389:Aurora do Pará
+390:São Luis do Piauí
+391:Nova Esperança do Piriá
+392:São Miguel da Baixa Grande
+393:São João de Pirabas
+394:São Miguel do Fidalgo
+395:Tailândia
+396:Sebastião Barros
+397:Tucumã
+398:Sebastião Leal
+399:Uruará
+400:Sussuapara
+401:Abaetetuba
+402:Tamboril do Piauí
+403:Acará
+404:Tanque do Piauí
+405:Afuá
+406:Vera Mendes
+407:Alenquer
+408:Vila Nova do Piauí
+409:Almeirim
+410:Wall Ferraz
+411:Altamira
+412:Bodó
+413:Anajás
+414:Caiçara do Norte
+415:Ananindeua
+416:Fernando Pedroza
+417:Augusto Corrêa
+418:Itajá
+419:Aveiro
+420:Major Sales
+421:Bagre
+422:Rio do Fogo
+423:Baião
+424:Santa Maria
+425:Barcarena
+426:Porto do Mangue
+427:Belém
+428:Tibau
+429:Benevides
+430:São Miguel do Gostoso
+431:Bonito
+432:Serrinha dos Pintos
+433:Bragança
+434:Tenente Laurentino Cruz
+435:Breves
+436:Triunfo Potiguar
+437:Bujaru
+438:Venha-Ver
+439:Cachoeira do Arari
+440:Alcantil
+441:Cametá
+442:Algodão de Jandaíra
+443:Capanema
+444:Amparo
+445:Capitão Poço
+446:Aparecida
+447:Castanhal
+448:Areia de Baraúnas
+449:Chaves
+450:Assunção
+451:Colares
+452:Baraúna
+453:Conceição do Araguaia
+454:Barra de Santana
+455:Curralinho
+456:Bernardino Batista
+457:Curuçá
+458:Boa Vista
+459:Faro
+460:Cacimbas
+461:Gurupá
+462:Cajazeirinhas
+463:Igarapé-Açu
+464:Capim
+465:Igarapé-Miri
+466:Caraúbas
+467:Inhangapi
+468:Casserengue
+469:Irituia
+470:Caturité
+471:Itaituba
+472:Coxixola
+473:Itupiranga
+474:Cuité de Mamanguape
+475:Jacundá
+476:Curral de Cima
+477:Juruti
+478:Damião
+479:Limoeiro do Ajuru
+480:Gado Bravo
+481:Magalhães Barata
+482:Logradouro
+483:Marabá
+484:Marcação
+485:Maracanã
+486:Marizópolis
+487:Marapanim
+488:Matinhas
+489:Melgaço
+490:Mato Grosso
+491:Mocajuba
+492:Maturéia
+493:Moju
+494:Parari
+495:Monte Alegre
+496:Poço Dantas
+497:Muaná
+498:Poço de José de Moura
+499:Nova Timboteua
+500:Pedro Régis
+501:Óbidos
+502:Riachão
+503:Oeiras do Pará
+504:Riachão do Bacamarte
+505:Oriximiná
+506:Riachão do Poço
+507:Ourém
+508:Riacho de Santo Antônio
+509:Paragominas
+510:Santa Cecília
+511:Peixe-Boi
+512:Santa Inês
+513:Ponta de Pedras
+514:Joca Claudino
+515:Portel
+516:Santo André
+517:Porto de Moz
+518:São Bentinho
+519:Prainha
+520:São Domingos do Cariri
+521:Primavera
+522:São Domingos
+523:Salinópolis
+524:São Francisco
+525:Salvaterra
+526:São José dos Ramos
+527:Santa Cruz do Arari
+528:São José de Princesa
+529:Santa Izabel do Pará
+530:São José do Brejo do Cruz
+531:Santa Maria do Pará
+532:Sertãozinho
+533:Santana do Araguaia
+534:Sobrado
+535:Santarém
+536:Sossêgo
+537:Santarém Novo
+538:Tenório
+539:Santo Antônio do Tauá
+540:Vieirópolis
+541:São Caetano de Odivelas
+542:Zabelê
+543:São Domingos do Capim
+544:Araçoiaba
+545:São Félix do Xingu
+546:Casinhas
+547:São Francisco do Pará
+548:Jaqueira
+549:São João do Araguaia
+550:Jatobá
+551:São Miguel do Guamá
+552:Lagoa Grande
+553:São Sebastião da Boa Vista
+554:Manari
+555:Senador José Porfírio
+556:Santa Filomena
+557:Soure
+558:Tamandaré
+559:Tomé-Açu
+560:Campestre
+561:Tucuruí
+562:Jequiá da Praia
+563:Vigia
+564:Alto Caparaó
+565:Viseu
+566:Angelândia
+567:Redenção
+568:Aricanduva
+569:Rio Maria
+570:Berizal
+571:Xinguara
+572:Bonito de Minas
+573:Rondon do Pará
+574:Brasilândia de Minas
+575:Bom Jesus do Tocantins
+576:Bugre
+577:Brejo Grande do Araguaia
+578:Cabeceira Grande
+579:Concórdia do Pará
+580:Campo Azul
+581:Curionópolis
+582:Cantagalo
+583:Dom Eliseu
+584:Catas Altas
+585:Garrafão do Norte
+586:Catuti
+587:Mãe do Rio
+588:Chapada Gaúcha
+589:Medicilândia
+590:Cônego Marinho
+591:Ourilândia do Norte
+592:Confins
+593:Pacajá
+594:Córrego Fundo
+595:Parauapebas
+596:Crisólita
+597:Rurópolis
+598:Cuparaque
+599:Santa Maria das Barreiras
+600:Curral de Dentro
+601:Amapá
+602:Delta
+603:Calçoene
+604:Divisa Alegre
+605:Macapá
+606:Dom Bosco
+607:Mazagão
+608:Franciscópolis
+609:Oiapoque
+610:Frei Lagonegro
+611:Ferreira Gomes
+612:Fruta de Leite
+613:Laranjal do Jari
+614:Gameleiras
+615:Santana
+616:Glaucilândia
+617:Tartarugalzinho
+618:Goiabeira
+619:São Geraldo do Araguaia
+620:Goianá
+621:Ipixuna do Pará
+622:Guaraciama
+623:Ulianópolis
+624:Ibiracatu
+625:Breu Branco
+626:Imbé de Minas
+627:Goianésia do Pará
+628:Indaiabira
+629:Novo Repartimento
+630:Japonvar
+631:Jacareacanga
+632:Jenipapo de Minas
+633:Novo Progresso
+634:José Gonçalves de Minas
+635:Trairão
+636:José Raydan
+637:Terra Santa
+638:Josenópolis
+639:Brasil Novo
+640:Juvenília
+641:Vitória do Xingu
+642:Leme do Prado
+643:Acrelândia
+644:Luisburgo
+645:Bujari
+646:Luislândia
+647:Capixaba
+648:Mário Campos
+649:Porto Acre
+650:Martins Soares
+651:Epitaciolândia
+652:Miravânia
+653:Jordão
+654:Monte Formoso
+655:Marechal Thaumaturgo
+656:Naque
+657:Porto Walter
+658:Natalândia
+659:Rodrigues Alves
+660:Ninheira
+661:Santa Rosa do Purus
+662:Nova Belém
+663:Pedra Branca do Amapari
+664:Nova Porteirinha
+665:Serra do Navio
+666:Novo Oriente de Minas
+667:Cutias
+668:Novorizonte
+669:Itaubal
+670:Olhos-d'Água
+671:Porto Grande
+672:Oratórios
+673:Pracuúba
+674:Orizânia
+675:Alto Paraíso
+676:Padre Carvalho
+677:Cacaulândia
+678:Pai Pedro
+679:Campo Novo de Rondônia
+680:Patis
+681:Candeias do Jamari
+682:Pedra Bonita
+683:Itapuã do Oeste
+684:Periquito
+685:Monte Negro
+686:Piedade de Caratinga
+687:Rio Crespo
+688:Pingo-d'Água
+689:Novo Horizonte do Oeste
+690:Pintópolis
+691:Castanheiras
+692:Ponto Chique
+693:Governador Jorge Teixeira
+694:Ponto dos Volantes
+695:Ministro Andreazza
+696:Reduto
+697:Mirante da Serra
+698:Rosário da Limeira
+699:Seringueiras
+700:Santa Bárbara do Monte Verde
+701:Afonso Cunha
+702:Santa Cruz de Minas
+703:Alcântara
+704:Santa Cruz de Salinas
+705:Aldeias Altas
+706:Santa Helena de Minas
+707:Altamira do Maranhão
+708:Santo Antônio do Retiro
+709:Alto Parnaíba
+710:São Domingos das Dores
+711:Amarante do Maranhão
+712:São Félix de Minas
+713:Anajatuba
+714:São Geraldo do Baixio
+715:Anapurus
+716:São João da Lagoa
+717:Araioses
+718:São João das Missões
+719:Arari
+720:São João do Pacuí
+721:Axixá
+722:São Joaquim de Bicas
+723:Bacabal
+724:São José da Barra
+725:Bacuri
+726:São Sebastião da Vargem Alegre
+727:Balsas
+728:São Sebastião do Anta
+729:Barão de Grajaú
+730:Sarzedo
+731:Barra do Corda
+732:Setubinha
+733:Barreirinhas
+734:Sem-Peixe
+735:Benedito Leite
+736:Serranópolis de Minas
+737:Bequimão
+738:Taparuba
+739:Brejo
+740:Tocos do Moji
+741:Buriti
+742:União de Minas
+743:Buriti Bravo
+744:Uruana de Minas
+745:Cajapió
+746:Vargem Alegre
+747:Cajari
+748:Vargem Grande do Rio Pardo
+749:Cândido Mendes
+750:Varjão de Minas
+751:Cantanhede
+752:Verdelândia
+753:Carolina
+754:Veredinha
+755:Carutapera
+756:Vermelho Novo
+757:Caxias
+758:Brejetuba
+759:Cedral
+760:Marataízes
+761:Chapadinha
+762:Ponto Belo
+763:Codó
+764:São Roque do Canaã
+765:Coelho Neto
+766:Sooretama
+767:Colinas
+768:Vila Valério
+769:Coroatá
+770:Armação dos Búzios
+771:Cururupu
+772:Carapebus
+773:Dom Pedro
+774:Iguaba Grande
+775:Duque Bacelar
+776:Macuco
+777:Esperantinópolis
+778:Pinheiral
+779:Fortaleza dos Nogueiras
+780:Porto Real
+781:Fortuna
+782:São Francisco de Itabapoana
+783:Godofredo Viana
+784:São José de Ubá
+785:Gonçalves Dias
+786:Seropédica
+787:Governador Archer
+788:Tanguá
+789:Governador Eugênio Barros
+790:Arco-Íris
+791:Graça Aranha
+792:Brejo Alegre
+793:Grajaú
+794:Canas
+795:Guimarães
+796:Fernão
+797:Humberto de Campos
+798:Gavião Peixoto
+799:Icatu
+800:Ipiguá
+801:Igarapé Grande
+802:Jumirim
+803:Imperatriz
+804:Nantes
+805:São Luís Gonzaga do Maranhão
+806:Nova Castilho
+807:Itapecuru Mirim
+808:Ouroeste
+809:João Lisboa
+810:Paulistânia
+811:Joselândia
+812:Pracinha
+813:Lago da Pedra
+814:Pratânia
+815:Lago do Junco
+816:Quadra
+817:Lago Verde
+818:Ribeirão dos Índios
+819:Lima Campos
+820:Santa Cruz da Esperança
+821:Loreto
+822:Santa Salete
+823:Luís Domingues
+824:Taquaral
+825:Magalhães de Almeida
+826:Trabiju
+827:Mata Roma
+828:Vitória Brasil
+829:Matinha
+830:Arapuã
+831:Matões
+832:Ariranha do Ivaí
+833:Mirador
+834:Bela Vista da Caroba
+835:Mirinzal
+836:Boa Ventura de São Roque
+837:Monção
+838:Bom Jesus do Sul
+839:Montes Altos
+840:Campina do Simão
+841:Morros
+842:Campo Magro
+843:Nina Rodrigues
+844:Carambeí
+845:Nova Iorque
+846:Coronel Domingos Soares
+847:Olho d'Água das Cunhãs
+848:Cruzmaltina
+849:Paço do Lumiar
+850:Esperança Nova
+851:Palmeirândia
+852:Espigão Alto do Iguaçu
+853:Paraibano
+854:Fernandes Pinheiro
+855:Parnarama
+856:Foz do Jordão
+857:Passagem Franca
+858:Goioxim
+859:Pastos Bons
+860:Guamiranga
+861:Pedreiras
+862:Imbaú
+863:Penalva
+864:Manfrinópolis
+865:Peri Mirim
+866:Marquinho
+867:Pindaré-Mirim
+868:Perobal
+869:Pinheiro
+870:Pontal do Paraná
+871:Pio XII
+872:Porto Barreiro
+873:Pirapemas
+874:Prado Ferreira
+875:Poção de Pedras
+876:Quarto Centenário
+877:Porto Franco
+878:Reserva do Iguaçu
+879:Presidente Dutra
+880:Rio Branco do Ivaí
+881:Presidente Juscelino
+882:Serranópolis do Iguaçu
+883:Presidente Vargas
+884:Tamarana
+885:Primeira Cruz
+886:Alto Bela Vista
+887:Riachão
+888:Balneário Arroio do Silva
+889:São José de Ribamar
+890:Balneário Gaivota
+891:Rosário
+892:Bandeirante
+893:Sambaíba
+894:Barra Bonita
+895:Santa Helena
+896:Bela Vista do Toldo
+897:Santa Luzia
+898:Bocaina do Sul
+899:Santa Quitéria do Maranhão
+900:Bom Jesus
+901:Santa Rita
+902:Bom Jesus do Oeste
+903:Santo Antônio dos Lopes
+904:Brunópolis
+905:São Benedito do Rio Preto
+906:Capão Alto
+907:São Bento
+908:Chapadão do Lageado
+909:São Bernardo
+910:Cunhataí
+911:São Domingos do Maranhão
+912:Entre Rios
+913:São Félix de Balsas
+914:Ermo
+915:São Francisco do Maranhão
+916:Flor do Sertão
+917:São João Batista
+918:Frei Rogério
+919:São João dos Patos
+920:Ibiam
+921:São Luís
+922:Iomerê
+923:São Mateus do Maranhão
+924:Jupiá
+925:São Raimundo das Mangabeiras
+926:Luzerna
+927:São Vicente Ferrer
+928:Paial
+929:Sítio Novo
+930:Painel
+931:Sucupira do Norte
+932:Palmeira
+933:Tasso Fragoso
+934:Princesa
+935:Timbiras
+936:Saltinho
+937:Timon
+938:Santa Terezinha do Progresso
+939:Tuntum
+940:Santiago do Sul
+941:Turiaçu
+942:São Bernardino
+943:Tutóia
+944:São Pedro de Alcântara
+945:Urbano Santos
+946:Tigrinhos
+947:Vargem Grande
+948:Treviso
+949:Viana
+950:Zortéa
+951:Vitória do Mearim
+952:Araricá
+953:Vitorino Freire
+954:Balneário Pinhal
+955:Bom Jardim
+956:Barra do Quaraí
+957:Santa Inês
+958:Benjamin Constant do Sul
+959:Paulo Ramos
+960:Boa Vista do Sul
+961:Açailândia
+962:Capivari do Sul
+963:Estreito
+964:Caraá
+965:Careiro da Várzea
+966:Cerrito
+967:Guajará
+968:Chuí
+969:Apuí
+970:Chuvisca
+971:Teotônio Vilela
+972:Cristal do Sul
+973:Forquilhinha
+974:Dilermando de Aguiar
+975:Theobroma
+976:Dom Pedro de Alcântara
+977:Urupá
+978:Doutor Ricardo
+979:Vale do Paraíso
+980:Esperança do Sul
+981:Corumbiara
+982:Estrela Velha
+983:Catunda
+984:Fazenda Vilanova
+985:Jijoca de Jericoacoara
+986:Floriano Peixoto
+987:Fortim
+988:Herveiras
+989:Ararendá
+990:Itaara
+991:Itaitinga
+992:Jari
+993:Choró
+994:Maçambará
+995:Coivaras
+996:Mampituba
+997:Jardim do Mulato
+998:Marques de Souza
+999:Lagoa Alegre
+1000:Monte Alegre dos Campos
+1001:Agricolândia
+1002:Muitos Capões
+1003:Água Branca
+1004:Nova Candelária
+1005:Alto Longá
+1006:Nova Ramada
+1007:Altos
+1008:Novo Cabrais
+1009:Amarante
+1010:Passa Sete
+1011:Angical do Piauí
+1012:Senador Salgado Filho
+1013:Anísio de Abreu
+1014:Sete de Setembro
+1015:Antônio Almeida
+1016:Tabaí
+1017:Aroazes
+1018:Toropi
+1019:Arraial
+1020:Turuçu
+1021:Avelino Lopes
+1022:Ubiretama
+1023:Barras
+1024:Unistalda
+1025:Barreiras do Piauí
+1026:Vale Verde
+1027:Barro Duro
+1028:Vespasiano Corrêa
+1029:Batalha
+1030:Vila Lângaro
+1031:Beneditinos
+1032:Campos de Júlio
+1033:Bertolínia
+1034:Carlinda
+1035:Bocaina
+1036:Feliz Natal
+1037:Bom Jesus
+1038:Gaúcha do Norte
+1039:Buriti dos Lopes
+1040:Nova Lacerda
+1041:Campinas do Piauí
+1042:Nova Ubiratã
+1043:Campo Maior
+1044:Novo Mundo
+1045:Canto do Buriti
+1046:Sapezal
+1047:Capitão de Campos
+1048:União do Sul
+1049:Caracol
+1050:Abadia de Goiás
+1051:Castelo do Piauí
+1052:Águas Lindas de Goiás
+1053:Cocal
+1054:Amaralina
+1055:Conceição do Canindé
+1056:Bonópolis
+1057:Corrente
+1058:Novo Gama
+1059:Cristalândia do Piauí
+1060:Porteirão
+1061:Cristino Castro
+1062:Santa Rita do Novo Destino
+1063:Curimatá
+1064:São Patrício
+1065:Demerval Lobão
+1066:Valparaíso de Goiás
+1067:Dom Expedito Lopes
+1068:Vila Propício
+1069:Elesbão Veloso
+1071:Eliseu Martins
+1073:Esperantina
+1075:Flores do Piauí
+1077:Floriano
+1079:Francinópolis
+1081:Francisco Ayres
+1083:Francisco Santos
+1085:Fronteiras
+1087:Gilbués
+1089:Guadalupe
+1091:Hugo Napoleão
+1093:Inhuma
+1094:Santa Cruz do Xingu
+1095:Ipiranga do Piauí
+1096:Santa Rita do Trivelato
+1097:Isaías Coelho
+1098:Santo Antônio do Leste
+1099:Itainópolis
+1100:Serra Nova Dourada
+1101:Itaueira
+1102:Vale de São Domingos
+1103:Jaicós
+1104:Pau D'Arco do Piauí
+1105:Jerumenha
+1107:Joaquim Pires
+1108:Jundiá
+1109:José de Freitas
+1111:Landri Sales
+1113:Luís Correia
+1115:Luzilândia
+1116:Mesquita
+1117:Manoel Emídio
+1118:Aceguá
+1119:Marcos Parente
+1120:Almirante Tamandaré do Sul
+1121:Matias Olímpio
+1122:Arroio do Padre
+1123:Miguel Alves
+1124:Boa Vista do Cadeado
+1125:Miguel Leão
+1126:Boa Vista do Incra
+1127:Monsenhor Gil
+1128:Bozano
+1129:Monsenhor Hipólito
+1130:Canudos do Vale
+1131:Monte Alegre do Piauí
+1132:Capão Bonito do Sul
+1133:Nazaré do Piauí
+1134:Capão do Cipó
+1135:Nossa Senhora dos Remédios
+1136:Coqueiro Baixo
+1137:Novo Oriente do Piauí
+1138:Coronel Pilar
+1139:Oeiras
+1140:Cruzaltense
+1141:Domingos Mourão
+1142:Forquetinha
+1143:Padre Marcos
+1144:Itati
+1145:Paes Landim
+1146:Jacuizinho
+1147:Palmeira do Piauí
+1148:Lagoa Bonita do Sul
+1149:Palmeirais
+1150:Mato Queimado
+1151:Parnaguá
+1152:Novo Xingu
+1153:Parnaíba
+1154:Paulo Bento
+1155:Paulistana
+1156:Pedras Altas
+1157:Pedro II
+1158:Pinhal da Serra
+1159:Picos
+1160:Pinto Bandeira
+1161:Pimenteiras
+1162:Quatro Irmãos
+1163:Pio IX
+1164:Rolador
+1165:Piracuruca
+1166:Santa Cecília do Sul
+1167:Piripiri
+1168:Santa Margarida do Sul
+1169:Porto
+1170:São José do Sul
+1171:Prata do Piauí
+1172:São Pedro das Missões
+1173:Redenção do Gurguéia
+1174:Tio Hugo
+1175:Regeneração
+1176:Westfália
+1177:Ribeiro Gonçalves
+1178:Figueirão
+1179:Rio Grande do Piauí
+1181:Santa Cruz do Piauí
+1183:Santa Filomena
+1184:Ipiranga do Norte
+1185:Santa Luz
+1186:Itanhangá
+1187:Santo Antônio de Lisboa
+1188:Aroeiras do Itaim
+1189:Santo Inácio do Piauí
+1191:São Félix do Piauí
+1193:São Francisco do Piauí
+1195:São Gonçalo do Piauí
+1197:São João da Serra
+1199:São João do Piauí
+1201:São José do Peixe
+1203:São José do Piauí
+1205:São Julião
+1207:São Miguel do Tapuio
+1209:São Pedro do Piauí
+1211:São Raimundo Nonato
+1213:Simões
+1215:Simplício Mendes
+1217:Socorro do Piauí
+1219:Teresina
+1221:União
+1223:Uruçuí
+1225:Valença do Piauí
+1227:Várzea Grande
+1229:Dirceu Arcoverde
+1231:Acarape
+1233:Banabuiú
+1235:Barreira
+1237:Barroquinha
+1239:Chorozinho
+1241:Croatá
+1243:Deputado Irapuan Pinheiro
+1245:Ereré
+1247:Eusébio
+1249:Graça
+1251:Guaiúba
+1253:Horizonte
+1255:Ibaretama
+1257:Ibicuitinga
+1259:Ipaporanga
+1261:Madalena
+1263:Miraíma
+1265:Ocara
+1267:Pindoretama
+1269:Pires Ferreira
+1271:Potiretama
+1273:Salitre
+1275:Tarrafas
+1277:Tejuçuoca
+1279:Tururu
+1281:Arame
+1283:Miranda do Norte
+1285:Santa Luzia do Paruá
+1287:Zé Doca
+1289:Dom Inocêncio
+1291:São João da Canabrava
+1293:Passagem Franca do Piauí
+1295:Santa Cruz dos Milagres
+1297:Buriti dos Montes
+1299:Cabeceiras do Piauí
+1301:Abaiara
+1303:Acaraú
+1305:Acopiara
+1307:Aiuaba
+1309:Alcântaras
+1311:Altaneira
+1313:Alto Santo
+1315:Antonina do Norte
+1317:Apuiarés
+1319:Aquiraz
+1321:Aracati
+1323:Aracoiaba
+1325:Araripe
+1327:Aratuba
+1329:Arneiroz
+1331:Assaré
+1333:Aurora
+1335:Baixio
+1337:Barbalha
+1339:Barro
+1341:Baturité
+1343:Beberibe
+1345:Bela Cruz
+1347:Boa Viagem
+1349:Brejo Santo
+1351:Camocim
+1353:Campos Sales
+1355:Canindé
+1357:Capistrano
+1359:Caridade
+1361:Cariré
+1363:Caririaçu
+1365:Cariús
+1367:Carnaubal
+1369:Cascavel
+1371:Catarina
+1373:Caucaia
+1375:Cedro
+1377:Chaval
+1379:Sigefredo Pacheco
+1381:Coreaú
+1383:Crateús
+1385:Crato
+1387:Farias Brito
+1389:Fortaleza
+1391:Frecheirinha
+1393:General Sampaio
+1395:Granja
+1397:Granjeiro
+1399:Groaíras
+1401:Guaraciaba do Norte
+1403:Guaramiranga
+1405:Hidrolândia
+1407:Ibiapina
+1409:Icó
+1411:Iguatu
+1413:Independência
+1415:Ipaumirim
+1417:Ipu
+1419:Ipueiras
+1421:Iracema
+1423:Irauçuba
+1425:Itaiçaba
+1427:Itapajé
+1429:Itapipoca
+1431:Itapiúna
+1433:Itatira
+1435:Jaguaretama
+1437:Jaguaribara
+1439:Jaguaribe
+1441:Jaguaruana
+1443:Jardim
+1445:Jati
+1447:Juazeiro do Norte
+1449:Jucás
+1451:Lavras da Mangabeira
+1453:Limoeiro do Norte
+1455:Maranguape
+1457:Marco
+1459:Martinópole
+1461:Massapê
+1463:Mauriti
+1465:Meruoca
+1467:Milagres
+1469:Missão Velha
+1471:Mombaça
+1473:Monsenhor Tabosa
+1475:Morada Nova
+1477:Moraújo
+1479:Morrinhos
+1481:Mucambo
+1483:Mulungu
+1485:Nova Olinda
+1487:Nova Russas
+1489:Novo Oriente
+1491:Orós
+1493:Pacajus
+1495:Pacatuba
+1497:Pacoti
+1499:Pacujá
+1501:Palhano
+1503:Palmácia
+1505:Paracuru
+1507:Parambu
+1509:Paramoti
+1511:Pedra Branca
+1513:Penaforte
+1515:Pentecoste
+1517:Pereiro
+1519:Piquet Carneiro
+1521:Poranga
+1523:Porteiras
+1525:Potengi
+1527:Quixadá
+1529:Quixeramobim
+1531:Quixeré
+1533:Redenção
+1535:Reriutaba
+1537:Russas
+1539:Saboeiro
+1541:Santana do Acaraú
+1543:Santana do Cariri
+1545:Santa Quitéria
+1547:São Benedito
+1549:São Gonçalo do Amarante
+1551:São João do Jaguaribe
+1553:São Luís do Curu
+1555:Senador Pompeu
+1557:Senador Sá
+1559:Sobral
+1561:Solonópole
+1563:Tabuleiro do Norte
+1565:Tamboril
+1567:Tauá
+1569:Tianguá
+1571:Trairi
+1573:Ubajara
+1575:Umari
+1577:Uruburetama
+1579:Uruoca
+1581:Várzea Alegre
+1583:Viçosa do Ceará
+1585:Maracanaú
+1587:Amontada
+1589:Cruz
+1591:Forquilha
+1593:Icapuí
+1595:Itarema
+1597:Milhã
+1599:Paraipaba
+1601:Acari
+1603:Açu
+1605:Afonso Bezerra
+1607:Água Nova
+1609:Alexandria
+1611:Almino Afonso
+1613:Alto do Rodrigues
+1615:Angicos
+1617:Antônio Martins
+1619:Apodi
+1621:Areia Branca
+1623:Arês
+1625:Campo Grande
+1627:Baía Formosa
+1629:Barcelona
+1631:Bento Fernandes
+1633:Bom Jesus
+1635:Brejinho
+1637:Caiçara do Rio do Vento
+1639:Caicó
+1641:Campo Redondo
+1643:Canguaretama
+1645:Caraúbas
+1647:Carnaúba dos Dantas
+1649:Carnaubais
+1651:Ceará-Mirim
+1653:Cerro Corá
+1655:Coronel Ezequiel
+1657:Coronel João Pessoa
+1659:Cruzeta
+1661:Currais Novos
+1663:Doutor Severiano
+1665:Encanto
+1667:Equador
+1669:Espírito Santo
+1671:Extremoz
+1673:Felipe Guerra
+1675:Florânia
+1677:Francisco Dantas
+1679:Galinhos
+1681:Goianinha
+1683:Governador Dix-Sept Rosado
+1685:Grossos
+1687:Guamaré
+1689:Ielmo Marinho
+1691:Ipanguaçu
+1693:Ipueira
+1695:Itaú
+1697:Jaçanã
+1699:Jandaíra
+1701:Janduís
+1703:Januário Cicco
+1705:Japi
+1707:Jardim de Angicos
+1709:Jardim de Piranhas
+1711:Jardim do Seridó
+1713:João Câmara
+1715:João Dias
+1717:José da Penha
+1719:Jucurutu
+1721:Messias Targino
+1723:Lagoa d'Anta
+1725:Lagoa de Pedras
+1727:Lagoa de Velhos
+1729:Lagoa Nova
+1731:Lagoa Salgada
+1733:Lajes
+1735:Lajes Pintadas
+1737:Lucrécia
+1739:Luís Gomes
+1741:Macaíba
+1743:Macau
+1745:Marcelino Vieira
+1747:Martins
+1749:Maxaranguape
+1751:Frutuoso Gomes
+1753:Montanhas
+1755:Monte Alegre
+1757:Monte das Gameleiras
+1759:Mossoró
+1761:Natal
+1763:Nísia Floresta
+1765:Nova Cruz
+1767:Olho d'Água do Borges
+1769:Ouro Branco
+1771:Paraná
+1773:Paraú
+1775:Parazinho
+1777:Parelhas
+1779:Parnamirim
+1781:Passa e Fica
+1783:Passagem
+1785:Patu
+1787:Pau dos Ferros
+1789:Pedra Grande
+1791:Pedra Preta
+1793:Pedro Avelino
+1795:Pedro Velho
+1797:Pendências
+1799:Pilões
+1801:Poço Branco
+1803:Portalegre
+1805:Serra Caiada
+1807:Pureza
+1809:Rafael Fernandes
+1811:Riacho da Cruz
+1813:Riacho de Santana
+1815:Riachuelo
+1817:Rodolfo Fernandes
+1819:Ruy Barbosa
+1821:São Francisco do Oeste
+1823:Santa Cruz
+1825:Santana do Seridó
+1827:Santana do Matos
+1829:Santo Antônio
+1831:São Bento do Norte
+1833:São Bento do Trairí
+1835:São Fernando
+1837:São Gonçalo do Amarante
+1839:São João do Sabugi
+1841:São José de Mipibu
+1843:São José do Campestre
+1845:São José do Seridó
+1847:São Miguel
+1849:São Paulo do Potengi
+1851:São Pedro
+1853:São Rafael
+1855:São Tomé
+1857:São Vicente
+1859:Senador Elói de Souza
+1861:Senador Georgino Avelino
+1863:Serra de São Bento
+1865:Serra Negra do Norte
+1867:Serrinha
+1869:Severiano Melo
+1871:Sítio Novo
+1873:Taboleiro Grande
+1875:Taipu
+1877:Tangará
+1879:Tenente Ananias
+1881:Tibau do Sul
+1883:Timbaúba dos Batistas
+1885:Touros
+1887:Umarizal
+1889:Upanema
+1891:Várzea
+1893:Rafael Godeiro
+1895:Vera Cruz
+1897:Viçosa
+1899:Vila Flor
+1901:Água Branca
+1903:Aguiar
+1905:Alagoa Grande
+1907:Alagoa Nova
+1909:Alagoinha
+1911:Alhandra
+1913:São João do Rio do Peixe
+1915:Araçagi
+1917:Arara
+1919:Araruna
+1921:Areia
+1923:Areial
+1925:Aroeiras
+1927:Serra do Mel
+1929:Baía da Traição
+1931:Bananeiras
+1933:Barra de Santa Rosa
+1935:Barra de São Miguel
+1937:Bayeux
+1939:Belém
+1941:Belém do Brejo do Cruz
+1943:Boa Ventura
+1945:Bom Jesus
+1947:Bom Sucesso
+1949:Bonito de Santa Fé
+1951:Boqueirão
+1953:Igaracy
+1955:Borborema
+1957:Brejo do Cruz
+1959:Brejo dos Santos
+1961:Caaporã
+1963:Cabaceiras
+1965:Cabedelo
+1967:Cachoeira dos Índios
+1969:Cacimba de Areia
+1971:Cacimba de Dentro
+1973:Caiçara
+1975:Cajazeiras
+1977:Caldas Brandão
+1979:Camalaú
+1981:Campina Grande
+1983:Carrapateira
+1985:Catingueira
+1987:Catolé do Rocha
+1989:Conceição
+1991:Condado
+1993:Conde
+1995:Congo
+1997:Coremas
+1999:Cruz do Espírito Santo
+2001:Cubati
+2003:Cuité
+2005:Cuitegi
+2007:Curral Velho
+2009:Desterro
+2011:Vista Serrana
+2013:Diamante
+2015:Dona Inês
+2017:Duas Estradas
+2019:Emas
+2021:Esperança
+2023:Fagundes
+2025:Frei Martinho
+2027:Guarabira
+2029:Gurinhém
+2031:Gurjão
+2033:Ibiara
+2035:Imaculada
+2037:Ingá
+2039:Itabaiana
+2041:Itaporanga
+2043:Itapororoca
+2045:Itatuba
+2047:Jacaraú
+2049:Jericó
+2051:João Pessoa
+2053:Juarez Távora
+2055:Juazeirinho
+2057:Junco do Seridó
+2059:Juripiranga
+2061:Juru
+2063:Lagoa
+2065:Lagoa de Dentro
+2067:Lagoa Seca
+2069:Lastro
+2071:Livramento
+2073:Lucena
+2075:Mãe d'Água
+2077:Malta
+2079:Mamanguape
+2081:Manaíra
+2083:Mari
+2085:Massaranduba
+2087:Mataraca
+2089:Mogeiro
+2091:Montadas
+2093:Monte Horebe
+2095:Monteiro
+2097:Mulungu
+2099:Natuba
+2101:Nazarezinho
+2103:Nova Floresta
+2105:Nova Olinda
+2107:Nova Palmeira
+2109:Olho d'Água
+2111:Olivedos
+2113:Ouro Velho
+2115:Passagem
+2117:Patos
+2119:Paulista
+2121:Pedra Branca
+2123:Pedra Lavrada
+2125:Pedras de Fogo
+2127:Piancó
+2129:Picuí
+2131:Pilar
+2133:Pilões
+2135:Pilõezinhos
+2137:Pirpirituba
+2139:Pitimbu
+2141:Pocinhos
+2143:Pombal
+2145:Prata
+2147:Princesa Isabel
+2149:Puxinanã
+2151:Queimadas
+2153:Quixaba
+2155:Remígio
+2157:Riacho dos Cavalos
+2159:Rio Tinto
+2161:Salgadinho
+2163:Salgado de São Félix
+2165:Santa Cruz
+2167:Santa Helena
+2169:Santa Luzia
+2171:Santana de Mangueira
+2173:Santana dos Garrotes
+2175:Santa Rita
+2177:Santa Teresinha
+2179:São Bento
+2181:São João do Cariri
+2183:São João do Tigre
+2185:São José da Lagoa Tapada
+2187:São José de Caiana
+2189:São José de Espinharas
+2191:São José de Piranhas
+2193:São José do Bonfim
+2195:São José do Sabugi
+2197:São José dos Cordeiros
+2199:São Mamede
+2201:São Miguel de Taipu
+2203:São Sebastião de Lagoa de Roça
+2205:São Sebastião do Umbuzeiro
+2207:Sapé
+2209:São Vicente do Seridó
+2211:Serra Branca
+2213:Serra da Raiz
+2215:Serra Grande
+2217:Serra Redonda
+2219:Serraria
+2221:Solânea
+2223:Soledade
+2225:Sousa
+2227:Sumé
+2229:Tacima
+2231:Taperoá
+2233:Tavares
+2235:Teixeira
+2237:Triunfo
+2239:Uiraúna
+2241:Umbuzeiro
+2243:Várzea
+2245:Baixa Grande do Ribeiro
+2247:Canavieira
+2249:Colônia do Gurguéia
+2251:Bonfim do Piauí
+2253:Colônia do Piauí
+2255:Coronel José Dias
+2257:Fartura do Piauí
+2259:Lagoa do Barro do Piauí
+2261:Santa Rosa do Piauí
+2263:São Braz do Piauí
+2265:São Lourenço do Piauí
+2267:Várzea Branca
+2269:Alegrete do Piauí
+2271:Caldeirão Grande do Piauí
+2273:Jacobina do Piauí
+2275:Marcolândia
+2277:Patos do Piauí
+2279:Queimada Nova
+2281:Santana do Piauí
+2283:Brasileira
+2285:São José do Divino
+2287:Bom Princípio do Piauí
+2289:Lagoa do Carro
+2291:Vertente do Lério
+2293:Xexéu
+2295:Jucati
+2297:Santa Cruz
+2299:Dormentes
+2301:Afogados da Ingazeira
+2303:Afrânio
+2305:Agrestina
+2307:Água Preta
+2309:Águas Belas
+2311:Alagoinha
+2313:Aliança
+2315:Altinho
+2317:Amaraji
+2319:Angelim
+2321:Araripina
+2323:Arcoverde
+2325:Barra de Guabiraba
+2327:Barreiros
+2329:Belém de Maria
+2331:Belém do São Francisco
+2333:Belo Jardim
+2335:Betânia
+2337:Bezerros
+2339:Bodocó
+2341:Bom Conselho
+2343:Bom Jardim
+2345:Bonito
+2347:Brejão
+2349:Brejinho
+2351:Brejo da Madre de Deus
+2353:Buenos Aires
+2355:Buíque
+2357:Cabo de Santo Agostinho
+2359:Cabrobó
+2361:Cachoeirinha
+2363:Caetés
+2365:Calçado
+2367:Calumbi
+2369:Camocim de São Félix
+2371:Camutanga
+2373:Canhotinho
+2375:Capoeiras
+2377:Carnaíba
+2379:Carpina
+2381:Caruaru
+2383:Catende
+2385:Cedro
+2387:Chã de Alegria
+2389:Chã Grande
+2391:Condado
+2393:Correntes
+2395:Cortês
+2397:Cumaru
+2399:Cupira
+2401:Custódia
+2403:Escada
+2405:Exu
+2407:Feira Nova
+2409:Ferreiros
+2411:Flores
+2413:Floresta
+2415:Frei Miguelinho
+2417:Gameleira
+2419:Garanhuns
+2421:Glória do Goitá
+2423:Goiana
+2425:Granito
+2427:Gravatá
+2429:Iati
+2431:Ibimirim
+2433:Ibirajuba
+2435:Igarassu
+2437:Iguaracy
+2439:Inajá
+2441:Ingazeira
+2443:Ipojuca
+2445:Ipubi
+2447:Itacuruba
+2449:Itaíba
+2451:Ilha de Itamaracá
+2453:Itapetim
+2455:Itaquitinga
+2457:Jaboatão dos Guararapes
+2459:Jataúba
+2461:João Alfredo
+2463:Joaquim Nabuco
+2465:Jupi
+2467:Jurema
+2469:Lagoa de Itaenga
+2471:Lagoa do Ouro
+2473:Lagoa dos Gatos
+2475:Lajedo
+2477:Limoeiro
+2479:Macaparana
+2481:Machados
+2483:Maraial
+2485:Mirandiba
+2487:Moreno
+2489:Nazaré da Mata
+2491:Olinda
+2493:Orobó
+2495:Orocó
+2497:Ouricuri
+2499:Palmares
+2501:Palmeirina
+2503:Panelas
+2505:Paranatama
+2507:Parnamirim
+2509:Passira
+2511:Paudalho
+2513:Paulista
+2515:Pedra
+2517:Pesqueira
+2519:Petrolândia
+2521:Petrolina
+2523:Poção
+2525:Pombos
+2527:Primavera
+2529:Quipapá
+2531:Recife
+2533:Riacho das Almas
+2535:Ribeirão
+2537:Rio Formoso
+2539:Sairé
+2541:Salgadinho
+2543:Salgueiro
+2545:Saloá
+2547:Sanharó
+2549:Santa Cruz do Capibaribe
+2551:Santa Maria da Boa Vista
+2553:Santa Maria do Cambucá
+2555:Santa Terezinha
+2557:São Benedito do Sul
+2559:São Bento do Una
+2561:São Caitano
+2563:São João
+2565:São Joaquim do Monte
+2567:São José da Coroa Grande
+2569:São José do Belmonte
+2571:São José do Egito
+2573:São Lourenço da Mata
+2575:São Vicente Férrer
+2577:Serra Talhada
+2579:Serrita
+2581:Sertânia
+2583:Sirinhaém
+2585:Moreilândia
+2587:Solidão
+2589:Surubim
+2591:Tabira
+2593:Tacaimbó
+2595:Tacaratu
+2597:Itambé
+2599:Taquaritinga do Norte
+2601:Terezinha
+2603:Terra Nova
+2605:Timbaúba
+2607:Toritama
+2609:Tracunhaém
+2611:Trindade
+2613:Triunfo
+2615:Tupanatinga
+2617:Tuparetama
+2619:Venturosa
+2621:Verdejante
+2623:Vertentes
+2625:Vicência
+2627:Vitória de Santo Antão
+2629:Camaragibe
+2631:Abreu e Lima
+2633:Itapissuma
+2635:Carnaubeira da Penha
+2637:Quixaba
+2639:Santa Cruz da Baixa Verde
+2641:Paripueira
+2643:Estrela de Alagoas
+2645:Pariconha
+2647:Santana do São Francisco
+2649:São José da Lapa
+2651:Capitão Andrade
+2653:Catuji
+2655:Jampruca
+2657:Divisópolis
+2659:Mata Verde
+2661:Palmópolis
+2663:Entre Folhas
+2665:Ipaba
+2667:Santa Bárbara do Leste
+2669:Santa Rita de Minas
+2671:Ubaporanga
+2673:Santana do Paraíso
+2675:Durandé
+2677:São João do Manhuaçu
+2679:São João do Manteninha
+2681:Alfredo Vasconcelos
+2683:Fervedouro
+2685:Carneirinho
+2687:Limeira do Oeste
+2689:Senador Amaral
+2691:Juatuba
+2693:Icaraí de Minas
+2695:Lontra
+2697:Montezuma
+2699:Urucuia
+2701:Água Branca
+2703:Anadia
+2705:Arapiraca
+2707:Atalaia
+2709:Barra de Santo Antônio
+2711:Barra de São Miguel
+2713:Batalha
+2715:Belém
+2717:Belo Monte
+2719:Boca da Mata
+2721:Branquinha
+2723:Cacimbinhas
+2725:Cajueiro
+2727:Campo Alegre
+2729:Campo Grande
+2731:Canapi
+2733:Capela
+2735:Carneiros
+2737:Chã Preta
+2739:Coité do Nóia
+2741:Colônia Leopoldina
+2743:Coqueiro Seco
+2745:Coruripe
+2747:Delmiro Gouveia
+2749:Dois Riachos
+2751:Feira Grande
+2753:Feliz Deserto
+2755:Flexeiras
+2757:Girau do Ponciano
+2759:Ibateguara
+2761:Igaci
+2763:Igreja Nova
+2765:Inhapi
+2767:Jacaré dos Homens
+2769:Jacuípe
+2771:Japaratinga
+2773:Jaramataia
+2775:Joaquim Gomes
+2777:Jundiá
+2779:Junqueiro
+2781:Lagoa da Canoa
+2783:Limoeiro de Anadia
+2785:Maceió
+2787:Major Isidoro
+2789:Maragogi
+2791:Maravilha
+2793:Marechal Deodoro
+2795:Maribondo
+2797:Mar Vermelho
+2799:Mata Grande
+2801:Matriz de Camaragibe
+2803:Messias
+2805:Minador do Negrão
+2807:Monteirópolis
+2809:Murici
+2811:Novo Lino
+2813:Olho d'Água das Flores
+2815:Olho d'Água do Casado
+2817:Olho d'Água Grande
+2819:Olivença
+2821:Ouro Branco
+2823:Palestina
+2825:Palmeira dos Índios
+2827:Pão de Açúcar
+2829:Passo de Camaragibe
+2831:Paulo Jacinto
+2833:Penedo
+2835:Piaçabuçu
+2837:Pilar
+2839:Pindoba
+2841:Piranhas
+2843:Poço das Trincheiras
+2845:Porto Calvo
+2847:Porto de Pedras
+2849:Porto Real do Colégio
+2851:Quebrangulo
+2853:Rio Largo
+2855:Roteiro
+2857:Santa Luzia do Norte
+2859:Santana do Ipanema
+2861:Santana do Mundaú
+2863:São Brás
+2865:São José da Laje
+2867:São José da Tapera
+2869:São Luís do Quitunde
+2871:São Miguel dos Campos
+2873:São Miguel dos Milagres
+2875:São Sebastião
+2877:Satuba
+2879:Tanque d'Arca
+2881:Taquarana
+2883:Traipu
+2885:União dos Palmares
+2887:Viçosa
+2889:Craíbas
+2891:Senador Rui Palmeira
+2893:Jaíba
+2895:Mamonas
+2897:Matias Cardoso
+2899:Pedras de Maria da Cruz
+2901:Riachinho
+2903:Araporã
+2905:Lagoa Grande
+2907:Guapimirim
+2909:Belford Roxo
+2911:Queimados
+2913:Japeri
+2915:Cardoso Moreira
+2917:Varre-Sai
+2919:Aperibé
+2921:Rio das Ostras
+2923:Quatis
+2925:Areal
+2927:Comendador Levy Gasparian
+2929:Marechal Floriano
+2931:Irupi
+2933:São Domingos do Norte
+2935:Vila Pavão
+2937:Lourdes
+2939:Santo Antônio do Aracanguá
+2941:São João de Iracema
+2943:Ilha Solteira
+2945:Suzanápolis
+2947:Canitar
+2949:Engenheiro Coelho
+2951:Hortolândia
+2953:Holambra
+2955:Tuiuti
+2957:Vargem
+2959:Estiva Gerbi
+2961:Emilianópolis
+2963:Pedrinhas Paulista
+2965:Bertioga
+2967:Cajati
+2969:Ilha Comprida
+2971:Ubarana
+2973:Zacarias
+2975:Elisiário
+2977:Marapoama
+2979:Novais
+2981:Aspásia
+2983:Mesópolis
+2985:Nova Canaã Paulista
+2987:Pontalinda
+2989:Parisi
+2991:Arapeí
+2993:Potim
+2995:Alambari
+2997:Barra do Chapéu
+2999:Campina do Monte Alegre
+3001:Fernando de Noronha
+3003:Baraúna
+3005:Muquém do São Francisco
+3007:Nova Fátima
+3009:Nova Ibiá
+3011:Nova Redenção
+3013:Novo Horizonte
+3015:Novo Triunfo
+3017:Ourolândia
+3019:Piraí do Norte
+3021:Ponto Novo
+3023:Presidente Tancredo Neves
+3025:Quixabeira
+3027:Ribeirão do Largo
+3029:São Domingos
+3031:São Félix do Coribe
+3033:São José do Jacuípe
+3035:São José da Vitória
+3037:Saubara
+3039:Serra do Ramalho
+3041:Sítio do Mato
+3043:Sítio do Quinto
+3045:Sobradinho
+3047:Umburanas
+3049:Varzedo
+3051:Vereda
+3053:Itaoca
+3055:Itapirapuã Paulista
+3057:Ribeirão Grande
+3059:Bom Sucesso de Itararé
+3061:Nova Campina
+3063:Taquarivaí
+3065:Alumínio
+3067:Araçariguama
+3069:Jussari
+3071:América Dourada
+3073:Arataca
+3075:Barro Alto
+3079:Buritirama
+3081:Capela do Alto Alegre
+3083:Capim Grosso
+3085:Canudos
+3087:Dias d'Ávila
+3089:Fátima
+3091:Filadélfia
+3093:Gavião
+3095:Guajeru
+3097:Heliópolis
+3099:João Dourado
+3101:Amparo do São Francisco
+3103:Aquidabã
+3105:Aracaju
+3107:Arauá
+3109:Areia Branca
+3111:Barra dos Coqueiros
+3113:Brejo Grande
+3115:Boquim
+3117:Eunápolis
+3119:Campo do Brito
+3121:Canhoba
+3123:Canindé de São Francisco
+3125:Capela
+3127:Carira
+3129:Carmópolis
+3131:Cedro de São João
+3133:Cristinápolis
+3135:Nossa Senhora Aparecida
+3137:Cumbe
+3139:Divina Pastora
+3141:Estância
+3143:Feira Nova
+3145:Frei Paulo
+3147:General Maynard
+3149:Gararu
+3151:Gracho Cardoso
+3153:Ilha das Flores
+3155:Indiaroba
+3157:Itabaiana
+3159:Itabaianinha
+3161:Itabi
+3163:Itaporanga d'Ajuda
+3165:Japaratuba
+3167:Japoatã
+3169:Lagarto
+3171:Laranjeiras
+3173:Macambira
+3175:Malhada dos Bois
+3177:Malhador
+3179:Maruim
+3181:Moita Bonita
+3183:Monte Alegre de Sergipe
+3185:Muribeca
+3187:Neópolis
+3189:Nossa Senhora da Glória
+3191:Nossa Senhora das Dores
+3193:Nossa Senhora de Lourdes
+3195:Nossa Senhora do Socorro
+3197:Pacatuba
+3199:Pedra Mole
+3201:Pedrinhas
+3203:Pinhão
+3205:Pirambu
+3207:Poço Redondo
+3209:Poço Verde
+3211:Porto da Folha
+3213:Propriá
+3215:Riachão do Dantas
+3217:Riachuelo
+3219:Ribeirópolis
+3221:Rosário do Catete
+3223:Salgado
+3225:Santa Luzia do Itanhy
+3227:Torre de Pedra
+3229:Santa Rosa de Lima
+3231:Santo Amaro das Brotas
+3233:São Cristóvão
+3235:São Domingos
+3237:São Francisco
+3239:São Miguel do Aleixo
+3241:Simão Dias
+3243:Siriri
+3245:Telha
+3247:Tobias Barreto
+3249:Tomar do Geru
+3251:Umbaúba
+3253:Adustina
+3255:Andorinha
+3257:Apuarema
+3259:Araçás
+3261:Banzaê
+3263:Bom Jesus da Serra
+3265:Bonito
+3267:Cabaceiras do Paraguaçu
+3269:Caetanos
+3271:Caraíbas
+3273:Caturama
+3275:Feira da Mata
+3277:Igrapiúna
+3279:Itabela
+3281:Itaguaçu da Bahia
+3283:Itatim
+3285:Iuiu
+3287:Jucuruçu
+3289:Lagoa Real
+3291:Lajedo do Tabocal
+3293:Madre de Deus
+3295:Matina
+3297:Mirante
+3299:Mulungu do Morro
+3301:Abaíra
+3303:Abaré
+3305:Acajutiba
+3307:Água Fria
+3309:Érico Cardoso
+3311:Aiquara
+3313:Alagoinhas
+3315:Alcobaça
+3317:Almadina
+3319:Amargosa
+3321:Amélia Rodrigues
+3323:Anagé
+3325:Andaraí
+3327:Angical
+3329:Anguera
+3331:Antas
+3333:Antônio Cardoso
+3335:Antônio Gonçalves
+3337:Aporá
+3339:Aracatu
+3341:Araci
+3343:Aramari
+3345:Aratuípe
+3347:Aurelino Leal
+3349:Baianópolis
+3351:Baixa Grande
+3353:Barra
+3355:Barra da Estiva
+3357:Barra do Choça
+3359:Barra do Mendes
+3361:Barra do Rocha
+3363:Barreiras
+3365:Barro Preto
+3367:Belmonte
+3369:Belo Campo
+3371:Biritinga
+3373:Boa Nova
+3375:Boa Vista do Tupim
+3377:Bom Jesus da Lapa
+3379:Boninal
+3381:Boquira
+3383:Botuporã
+3385:Brejões
+3387:Brejolândia
+3389:Brotas de Macaúbas
+3391:Brumado
+3393:Buerarema
+3395:Caatiba
+3397:Cachoeira
+3399:Caculé
+3401:Caém
+3403:Caetité
+3405:Cafarnaum
+3407:Cairu
+3409:Caldeirão Grande
+3411:Camacan
+3413:Camaçari
+3415:Camamu
+3417:Campo Alegre de Lourdes
+3419:Campo Formoso
+3421:Canápolis
+3423:Canarana
+3425:Canavieiras
+3427:Candeal
+3429:Candeias
+3431:Candiba
+3433:Cândido Sales
+3435:Cansanção
+3437:Caravelas
+3439:Cardeal da Silva
+3441:Carinhanha
+3443:Casa Nova
+3445:Castro Alves
+3447:Catolândia
+3449:Catu
+3451:Central
+3453:Chorrochó
+3455:Cícero Dantas
+3457:Cipó
+3459:Coaraci
+3461:Cocos
+3463:Conceição da Feira
+3465:Conceição do Almeida
+3467:Conceição do Coité
+3469:Conceição do Jacuípe
+3471:Conde
+3473:Condeúba
+3475:Contendas do Sincorá
+3477:Coração de Maria
+3479:Cordeiros
+3481:Coribe
+3483:Coronel João Sá
+3485:Correntina
+3487:Cotegipe
+3489:Cravolândia
+3491:Crisópolis
+3493:Cristópolis
+3495:Cruz das Almas
+3497:Curaçá
+3499:Dário Meira
+3501:Dom Basílio
+3503:Dom Macedo Costa
+3505:Elísio Medrado
+3507:Encruzilhada
+3509:Entre Rios
+3511:Esplanada
+3513:Euclides da Cunha
+3515:Feira de Santana
+3517:Firmino Alves
+3519:Floresta Azul
+3521:Formosa do Rio Preto
+3523:Gandu
+3525:Gentio do Ouro
+3527:Glória
+3529:Gongogi
+3531:Governador Mangabeira
+3533:Guanambi
+3535:Guaratinga
+3537:Iaçu
+3539:Ibiassucê
+3541:Ibicaraí
+3543:Ibicoara
+3545:Ibicuí
+3547:Ibipeba
+3549:Santa Rita de Cássia
+3551:Ibipitanga
+3553:Ibiquera
+3555:Ibirapitanga
+3557:Ibirapuã
+3559:Ibirataia
+3561:Ibitiara
+3563:Ibititá
+3565:Ibotirama
+3567:Ichu
+3569:Igaporã
+3571:Iguaí
+3573:Ilhéus
+3575:Inhambupe
+3577:Ipecaetá
+3579:Ipiaú
+3581:Ipirá
+3583:Ipupiara
+3585:Irajuba
+3587:Iramaia
+3589:Iraquara
+3591:Irará
+3593:Irecê
+3595:Itaberaba
+3597:Itabuna
+3599:Itacaré
+3601:Itaeté
+3603:Itagi
+3605:Itagibá
+3607:Itagimirim
+3609:Itaju do Colônia
+3611:Itajuípe
+3613:Itamaraju
+3615:Itamari
+3617:Itambé
+3619:Itanagra
+3621:Itanhém
+3623:Itaparica
+3625:Itapé
+3627:Itapebi
+3629:Itapetinga
+3631:Itapicuru
+3633:Itapitanga
+3635:Itaquara
+3637:Itarantim
+3639:Itiruçu
+3641:Itiúba
+3643:Itororó
+3645:Ituaçu
+3647:Ituberá
+3649:Jacaraci
+3651:Jacobina
+3653:Jaguaquara
+3655:Jaguarari
+3657:Jaguaripe
+3659:Jandaíra
+3661:Jequié
+3663:Jeremoabo
+3665:Jiquiriçá
+3667:Jitaúna
+3669:Juazeiro
+3671:Jussara
+3673:Jussiape
+3675:Lafaiete Coutinho
+3677:Laje
+3679:Lajedão
+3681:Lajedinho
+3683:Lamarão
+3685:Lauro de Freitas
+3687:Lençóis
+3689:Licínio de Almeida
+3691:Livramento de Nossa Senhora
+3693:Macajuba
+3695:Macarani
+3697:Macaúbas
+3699:Macururé
+3701:Maiquinique
+3703:Mairi
+3705:Malhada
+3707:Malhada de Pedras
+3709:Manoel Vitorino
+3711:Maracás
+3713:Maragogipe
+3715:Maraú
+3717:Marcionílio Souza
+3719:Mascote
+3721:Mata de São João
+3723:Medeiros Neto
+3725:Miguel Calmon
+3727:Milagres
+3729:Mirangaba
+3731:Monte Santo
+3733:Morpará
+3735:Morro do Chapéu
+3737:Mortugaba
+3739:Mucugê
+3741:Mucuri
+3743:Mundo Novo
+3745:Muniz Ferreira
+3747:Muritiba
+3749:Mutuípe
+3751:Nazaré
+3753:Nilo Peçanha
+3755:Nova Canaã
+3757:Nova Itarana
+3759:Nova Soure
+3761:Nova Viçosa
+3763:Olindina
+3765:Oliveira dos Brejinhos
+3767:Ouriçangas
+3769:Palmas de Monte Alto
+3771:Palmeiras
+3773:Paramirim
+3775:Paratinga
+3777:Paripiranga
+3779:Pau Brasil
+3781:Paulo Afonso
+3783:Pedrão
+3785:Pedro Alexandre
+3787:Piatã
+3789:Pilão Arcado
+3791:Pindaí
+3793:Pindobaçu
+3795:Piripá
+3797:Piritiba
+3799:Planaltino
+3801:Planalto
+3803:Poções
+3805:Pojuca
+3807:Porto Seguro
+3809:Potiraguá
+3811:Prado
+3813:Presidente Dutra
+3815:Presidente Jânio Quadros
+3817:Queimadas
+3819:Quijingue
+3821:Remanso
+3823:Retirolândia
+3825:Riachão das Neves
+3827:Riachão do Jacuípe
+3829:Riacho de Santana
+3831:Ribeira do Amparo
+3833:Ribeira do Pombal
+3835:Rio de Contas
+3837:Rio do Antônio
+3839:Rio do Pires
+3841:Rio Real
+3843:Rodelas
+3845:Ruy Barbosa
+3847:Salinas da Margarida
+3849:Salvador
+3851:Santa Bárbara
+3853:Santa Brígida
+3855:Santa Cruz Cabrália
+3857:Santa Cruz da Vitória
+3859:Santa Inês
+3861:Santaluz
+3863:Santa Maria da Vitória
+3865:Santana
+3867:Santanópolis
+3869:Santa Terezinha
+3871:Santo Amaro
+3873:Santo Antônio de Jesus
+3875:Santo Estêvão
+3877:São Desidério
+3879:São Félix
+3881:São Felipe
+3883:São Francisco do Conde
+3885:São Gonçalo dos Campos
+3887:São Miguel das Matas
+3889:São Sebastião do Passé
+3891:Sapeaçu
+3893:Sátiro Dias
+3895:Saúde
+3897:Seabra
+3899:Sebastião Laranjeiras
+3901:Senhor do Bonfim
+3903:Sento Sé
+3905:Serra Dourada
+3907:Serra Preta
+3909:Serrinha
+3911:Serrolândia
+3913:Simões Filho
+3915:Souto Soares
+3917:Tabocas do Brejo Velho
+3919:Tanhaçu
+3921:Tanquinho
+3923:Taperoá
+3925:Tapiramutá
+3927:Teodoro Sampaio
+3929:Teofilândia
+3931:Teolândia
+3933:Terra Nova
+3935:Tremedal
+3937:Tucano
+3939:Uauá
+3941:Ubaíra
+3943:Ubaitaba
+3945:Ubatã
+3947:Uibaí
+3949:Una
+3951:Urandi
+3953:Uruçuca
+3955:Utinga
+3957:Valença
+3959:Valente
+3961:Várzea do Poço
+3963:Vera Cruz
+3965:Vitória da Conquista
+3967:Wagner
+3969:Wenceslau Guimarães
+3971:Xique-Xique
+3973:Lapão
+3975:Maetinga
+3977:Mansidão
+3979:Nordestina
+3981:Pé de Serra
+3983:Pintadas
+3985:Rafael Jambeiro
+3987:Santa Luzia
+3989:São Gabriel
+3991:Tanque Novo
+3993:Teixeira de Freitas
+3995:Várzea Nova
+3997:Várzea da Roça
+3999:Wanderley
+4001:Abadia dos Dourados
+4003:Abaeté
+4005:Abre Campo
+4007:Acaiaca
+4009:Açucena
+4011:Água Boa
+4013:Água Comprida
+4015:Aguanil
+4017:Águas Formosas
+4019:Águas Vermelhas
+4021:Aimorés
+4023:Aiuruoca
+4025:Alagoa
+4027:Albertina
+4029:Além Paraíba
+4031:Alfenas
+4033:Almenara
+4035:Alpercata
+4037:Alpinópolis
+4039:Alterosa
+4041:Alto Rio Doce
+4043:Alvarenga
+4045:Alvinópolis
+4047:Alvorada de Minas
+4049:Amparo do Serra
+4051:Andradas
+4053:Cachoeira de Pajeú
+4055:Andrelândia
+4057:Antônio Carlos
+4059:Antônio Dias
+4061:Antônio Prado de Minas
+4063:Araçaí
+4065:Aracitaba
+4067:Araçuaí
+4069:Araguari
+4071:Arantina
+4073:Araponga
+4075:Arapuá
+4077:Araújos
+4079:Araxá
+4081:Arceburgo
+4083:Arcos
+4085:Areado
+4087:Argirita
+4089:Arinos
+4091:Astolfo Dutra
+4093:Ataléia
+4095:Augusto de Lima
+4097:Baependi
+4099:Baldim
+4101:Bambuí
+4103:Bandeira
+4105:Bandeira do Sul
+4107:Barão de Cocais
+4109:Barão de Monte Alto
+4111:Barbacena
+4113:Barra Longa
+4115:Três Marias
+4117:Barroso
+4119:Bela Vista de Minas
+4121:Belmiro Braga
+4123:Belo Horizonte
+4125:Belo Oriente
+4127:Belo Vale
+4129:Berilo
+4131:Bertópolis
+4133:Betim
+4135:Bias Fortes
+4137:Bicas
+4139:Biquinhas
+4141:Boa Esperança
+4143:Bocaina de Minas
+4145:Bocaiúva
+4147:Bom Despacho
+4149:Bom Jardim de Minas
+4151:Bom Jesus da Penha
+4153:Bom Jesus do Amparo
+4155:Bom Jesus do Galho
+4157:Bom Repouso
+4159:Bom Sucesso
+4161:Bonfim
+4163:Bonfinópolis de Minas
+4165:Borda da Mata
+4167:Botelhos
+4169:Botumirim
+4171:Brasília de Minas
+4173:Brás Pires
+4175:Braúnas
+4177:Brazópolis
+4179:Brumadinho
+4181:Bueno Brandão
+4183:Buenópolis
+4185:Buritis
+4187:Buritizeiro
+4189:Cabo Verde
+4191:Cachoeira da Prata
+4193:Cachoeira de Minas
+4195:Cachoeira Dourada
+4197:Caetanópolis
+4199:Caeté
+4201:Caiana
+4203:Cajuri
+4205:Caldas
+4207:Camacho
+4209:Camanducaia
+4211:Cambuí
+4213:Cambuquira
+4215:Campanário
+4217:Campanha
+4219:Campestre
+4221:Campina Verde
+4223:Campo Belo
+4225:Campo do Meio
+4227:Campo Florido
+4229:Campos Altos
+4231:Campos Gerais
+4233:Canaã
+4235:Canápolis
+4237:Cana Verde
+4239:Candeias
+4241:Caparaó
+4243:Capela Nova
+4245:Capelinha
+4247:Capetinga
+4249:Capim Branco
+4251:Capinópolis
+4253:Capitão Enéas
+4255:Capitólio
+4257:Caputira
+4259:Caraí
+4261:Caranaíba
+4263:Carandaí
+4265:Carangola
+4267:Caratinga
+4269:Carbonita
+4271:Careaçu
+4273:Carlos Chagas
+4275:Carmésia
+4277:Carmo da Cachoeira
+4279:Carmo da Mata
+4281:Carmo de Minas
+4283:Carmo do Cajuru
+4285:Carmo do Paranaíba
+4287:Carmo do Rio Claro
+4289:Carmópolis de Minas
+4291:Carrancas
+4293:Carvalhópolis
+4295:Carvalhos
+4297:Casa Grande
+4299:Cascalho Rico
+4301:Cássia
+4303:Conceição da Barra de Minas
+4305:Cataguases
+4307:Catas Altas da Noruega
+4309:Caxambu
+4311:Cedro do Abaeté
+4313:Central de Minas
+4315:Centralina
+4317:Chácara
+4319:Chalé
+4321:Chapada do Norte
+4323:Chiador
+4325:Cipotânea
+4327:Claraval
+4329:Claro dos Poções
+4331:Cláudio
+4333:Coimbra
+4335:Coluna
+4337:Comendador Gomes
+4339:Comercinho
+4341:Conceição da Aparecida
+4343:Conceição das Pedras
+4345:Conceição das Alagoas
+4347:Conceição de Ipanema
+4349:Conceição do Mato Dentro
+4351:Conceição do Pará
+4353:Conceição do Rio Verde
+4355:Conceição dos Ouros
+4357:Congonhal
+4359:Congonhas
+4361:Congonhas do Norte
+4363:Conquista
+4365:Conselheiro Lafaiete
+4367:Conselheiro Pena
+4369:Consolação
+4371:Contagem
+4373:Coqueiral
+4375:Coração de Jesus
+4377:Cordisburgo
+4379:Cordislândia
+4381:Corinto
+4383:Coroaci
+4385:Coromandel
+4387:Coronel Fabriciano
+4389:Coronel Murta
+4391:Coronel Pacheco
+4393:Coronel Xavier Chaves
+4395:Córrego Danta
+4397:Córrego do Bom Jesus
+4399:Córrego Novo
+4401:Couto de Magalhães de Minas
+4403:Cristais
+4405:Cristália
+4407:Cristiano Otoni
+4409:Cristina
+4411:Crucilândia
+4413:Cruzeiro da Fortaleza
+4415:Cruzília
+4417:Curvelo
+4419:Datas
+4421:Delfim Moreira
+4423:Delfinópolis
+4425:Descoberto
+4427:Desterro de Entre Rios
+4429:Desterro do Melo
+4431:Diamantina
+4433:Diogo de Vasconcelos
+4435:Dionísio
+4437:Divinésia
+4439:Divino
+4441:Divino das Laranjeiras
+4443:Divinolândia de Minas
+4445:Divinópolis
+4447:Divisa Nova
+4449:Dom Cavati
+4451:Dom Joaquim
+4453:Dom Silvério
+4455:Dom Viçoso
+4457:Dona Euzébia
+4459:Dores de Campos
+4461:Dores de Guanhães
+4463:Dores do Indaiá
+4465:Dores do Turvo
+4467:Doresópolis
+4469:Douradoquara
+4471:Elói Mendes
+4473:Engenheiro Caldas
+4475:Engenheiro Navarro
+4477:Entre Rios de Minas
+4479:Ervália
+4481:Esmeraldas
+4483:Espera Feliz
+4485:Espinosa
+4487:Espírito Santo do Dourado
+4489:Estiva
+4491:Estrela Dalva
+4493:Estrela do Indaiá
+4495:Estrela do Sul
+4497:Eugenópolis
+4499:Ewbank da Câmara
+4501:Extrema
+4503:Fama
+4505:Faria Lemos
+4507:Felício dos Santos
+4509:São Gonçalo do Rio Preto
+4511:Felisburgo
+4513:Felixlândia
+4515:Fernandes Tourinho
+4517:Ferros
+4519:Florestal
+4521:Formiga
+4523:Formoso
+4525:Fortaleza de Minas
+4527:Fortuna de Minas
+4529:Francisco Badaró
+4531:Francisco Dumont
+4533:Francisco Sá
+4535:Frei Gaspar
+4537:Frei Inocêncio
+4539:Fronteira
+4541:Frutal
+4543:Funilândia
+4545:Galiléia
+4547:Gonçalves
+4549:Gonzaga
+4551:Gouveia
+4553:Governador Valadares
+4555:Grão Mogol
+4557:Grupiara
+4559:Guanhães
+4561:Guapé
+4563:Guaraciaba
+4565:Guaranésia
+4567:Guarani
+4569:Guarará
+4571:Guarda-Mor
+4573:Guaxupé
+4575:Guidoval
+4577:Guimarânia
+4579:Guiricema
+4581:Gurinhatã
+4583:Heliodora
+4585:Iapu
+4587:Ibertioga
+4589:Ibiá
+4591:Ibiaí
+4593:Ibiraci
+4595:Ibirité
+4597:Ibitiúra de Minas
+4599:Ibituruna
+4601:Igarapé
+4603:Igaratinga
+4605:Iguatama
+4607:Ijaci
+4609:Ilicínea
+4611:Inconfidentes
+4613:Indianópolis
+4615:Ingaí
+4617:Inhapim
+4619:Inhaúma
+4621:Inimutaba
+4623:Ipanema
+4625:Ipatinga
+4627:Ipiaçu
+4629:Ipuiúna
+4631:Iraí de Minas
+4633:Itabira
+4635:Itabirinha
+4637:Itabirito
+4639:Itacambira
+4641:Itacarambi
+4643:Itaguara
+4645:Itaipé
+4647:Itajubá
+4649:Itamarandiba
+4651:Itamarati de Minas
+4653:Itambacuri
+4655:Itambé do Mato Dentro
+4657:Itamogi
+4659:Itamonte
+4661:Itanhandu
+4663:Itanhomi
+4665:Itaobim
+4667:Itapagipe
+4669:Itapecerica
+4671:Itapeva
+4673:Itatiaiuçu
+4675:Itaúna
+4677:Itaverava
+4679:Itinga
+4681:Itueta
+4683:Ituiutaba
+4685:Itumirim
+4687:Iturama
+4689:Itutinga
+4691:Jaboticatubas
+4693:Jacinto
+4695:Jacuí
+4697:Jacutinga
+4699:Jaguaraçu
+4701:Janaúba
+4703:Januária
+4705:Japaraíba
+4707:Jeceaba
+4709:Jequeri
+4711:Jequitaí
+4713:Jequitibá
+4715:Jequitinhonha
+4717:Jesuânia
+4719:Joaíma
+4721:Joanésia
+4723:João Monlevade
+4725:João Pinheiro
+4727:Joaquim Felício
+4729:Jordânia
+4731:Nova União
+4733:Juiz de Fora
+4735:Juramento
+4737:Juruaia
+4739:Ladainha
+4741:Lagamar
+4743:Lagoa da Prata
+4745:Lagoa dos Patos
+4747:Lagoa Dourada
+4749:Lagoa Formosa
+4751:Lagoa Santa
+4753:Lajinha
+4755:Lambari
+4757:Lamim
+4759:Laranjal
+4761:Lassance
+4763:Lavras
+4765:Leandro Ferreira
+4767:Leopoldina
+4769:Liberdade
+4771:Lima Duarte
+4773:Luminárias
+4775:Luz
+4777:Machacalis
+4779:Machado
+4781:Madre de Deus de Minas
+4783:Malacacheta
+4785:Manga
+4787:Manhuaçu
+4789:Manhumirim
+4791:Mantena
+4793:Maravilhas
+4795:Mar de Espanha
+4797:Maria da Fé
+4799:Mariana
+4801:Marilac
+4803:Maripá de Minas
+4805:Marliéria
+4807:Marmelópolis
+4809:Martinho Campos
+4811:Materlândia
+4813:Mateus Leme
+4815:Matias Barbosa
+4817:Matipó
+4819:Mato Verde
+4821:Matozinhos
+4823:Matutina
+4825:Medeiros
+4827:Medina
+4829:Mendes Pimentel
+4831:Mercês
+4833:Mesquita
+4835:Minas Novas
+4837:Minduri
+4839:Mirabela
+4841:Miradouro
+4843:Miraí
+4845:Moeda
+4847:Moema
+4849:Monjolos
+4851:Monsenhor Paulo
+4853:Montalvânia
+4855:Monte Alegre de Minas
+4857:Monte Azul
+4859:Monte Belo
+4861:Monte Carmelo
+4863:Monte Santo de Minas
+4865:Montes Claros
+4867:Monte Sião
+4869:Morada Nova de Minas
+4871:Morro da Garça
+4873:Morro do Pilar
+4875:Munhoz
+4877:Muriaé
+4879:Mutum
+4881:Muzambinho
+4883:Nacip Raydan
+4885:Nanuque
+4887:Natércia
+4889:Nazareno
+4891:Nepomuceno
+4893:Nova Era
+4895:Nova Lima
+4897:Nova Módica
+4899:Nova Ponte
+4901:Nova Resende
+4903:Nova Serrana
+4905:Novo Cruzeiro
+4907:Olaria
+4909:Olímpio Noronha
+4911:Oliveira
+4913:Oliveira Fortes
+4915:Onça de Pitangui
+4917:Ouro Branco
+4919:Ouro Fino
+4921:Ouro Preto
+4923:Ouro Verde de Minas
+4925:Padre Paraíso
+4927:Paineiras
+4929:Pains
+4931:Paiva
+4933:Palma
+4935:Fronteira dos Vales
+4937:Papagaios
+4939:Paracatu
+4941:Pará de Minas
+4943:Paraguaçu
+4945:Paraisópolis
+4947:Paraopeba
+4949:Passabém
+4951:Passa Quatro
+4953:Passa Tempo
+4955:Passa Vinte
+4957:Passos
+4959:Patos de Minas
+4961:Patrocínio
+4963:Patrocínio do Muriaé
+4965:Paula Cândido
+4967:Paulistas
+4969:Pavão
+4971:Peçanha
+4973:Pedra Azul
+4975:Pedra do Anta
+4977:Pedra do Indaiá
+4979:Pedra Dourada
+4981:Pedralva
+4983:Pedrinópolis
+4985:Pedro Leopoldo
+4987:Pedro Teixeira
+4989:Pequeri
+4991:Pequi
+4993:Perdigão
+4995:Perdizes
+4997:Perdões
+4999:Pescador
+5001:Piau
+5003:Piedade de Ponte Nova
+5005:Piedade do Rio Grande
+5007:Piedade dos Gerais
+5009:Pimenta
+5011:Piracema
+5013:Pirajuba
+5015:Piranga
+5017:Piranguçu
+5019:Piranguinho
+5021:Pirapetinga
+5023:Pirapora
+5025:Piraúba
+5027:Pitangui
+5029:Piumhi
+5031:Planura
+5033:Poço Fundo
+5035:Poços de Caldas
+5037:Pocrane
+5039:Pompéu
+5041:Ponte Nova
+5043:Porteirinha
+5045:Porto Firme
+5047:Poté
+5049:Pouso Alegre
+5051:Pouso Alto
+5053:Prados
+5055:Prata
+5057:Pratápolis
+5059:Pratinha
+5061:Presidente Bernardes
+5063:Presidente Juscelino
+5065:Presidente Kubitschek
+5067:Presidente Olegário
+5069:Alto Jequitibá
+5071:Prudente de Morais
+5073:Quartel Geral
+5075:Queluzito
+5077:Raposos
+5079:Raul Soares
+5081:Recreio
+5083:Resende Costa
+5085:Resplendor
+5087:Ressaquinha
+5089:Riacho dos Machados
+5091:Ribeirão das Neves
+5093:Ribeirão Vermelho
+5095:Rio Acima
+5097:Rio Casca
+5099:Rio Doce
+5101:Rio do Prado
+5103:Rio Espera
+5105:Rio Manso
+5107:Rio Novo
+5109:Rio Paranaíba
+5111:Rio Pardo de Minas
+5113:Rio Piracicaba
+5115:Rio Pomba
+5117:Rio Preto
+5119:Rio Vermelho
+5121:Ritápolis
+5123:Rochedo de Minas
+5125:Rodeiro
+5127:Romaria
+5129:Rubelita
+5131:Rubim
+5133:Sabará
+5135:Sabinópolis
+5137:Sacramento
+5139:Salinas
+5141:Salto da Divisa
+5143:Santa Bárbara
+5145:Santa Bárbara do Tugúrio
+5147:Santa Cruz do Escalvado
+5149:Santa Efigênia de Minas
+5151:Santa Fé de Minas
+5153:Santa Juliana
+5155:Santa Luzia
+5157:Santa Margarida
+5159:Santa Maria de Itabira
+5161:Santa Maria do Salto
+5163:Santa Maria do Suaçuí
+5165:Santana da Vargem
+5167:Santana de Cataguases
+5169:Santana de Pirapama
+5171:Santana do Deserto
+5173:Santana do Garambéu
+5175:Santana do Jacaré
+5177:Santana do Manhuaçu
+5179:Santana do Riacho
+5181:Santana dos Montes
+5183:Santa Rita de Caldas
+5185:Santa Rita de Jacutinga
+5187:Santa Rita de Ibitipoca
+5189:Santa Rita do Itueto
+5191:Santa Rita do Sapucaí
+5193:Santa Rosa da Serra
+5195:Santa Vitória
+5197:Santo Antônio do Amparo
+5199:Santo Antônio do Aventureiro
+5201:Santo Antônio do Grama
+5203:Santo Antônio do Itambé
+5205:Santo Antônio do Jacinto
+5207:Santo Antônio do Monte
+5209:Santo Antônio do Rio Abaixo
+5211:Santo Hipólito
+5213:Santos Dumont
+5215:São Bento Abade
+5217:São Brás do Suaçuí
+5219:São Domingos do Prata
+5221:São Francisco
+5223:São Francisco de Paula
+5225:São Francisco de Sales
+5227:São Francisco do Glória
+5229:São Geraldo
+5231:São Geraldo da Piedade
+5233:São Gonçalo do Abaeté
+5235:São Gonçalo do Pará
+5237:São Gonçalo do Rio Abaixo
+5239:São Gonçalo do Sapucaí
+5241:São Gotardo
+5243:São João Batista do Glória
+5245:São João da Mata
+5247:São João da Ponte
+5249:São João del Rei
+5251:São João do Oriente
+5253:São João do Paraíso
+5255:São João Evangelista
+5257:São João Nepomuceno
+5259:São José da Safira
+5261:São José da Varginha
+5263:São José do Alegre
+5265:São José do Divino
+5267:São José do Goiabal
+5269:São José do Jacuri
+5271:São José do Mantimento
+5273:São Lourenço
+5275:São Miguel do Anta
+5277:São Pedro da União
+5279:São Pedro dos Ferros
+5281:São Pedro do Suaçuí
+5283:São Romão
+5285:São Roque de Minas
+5287:São Sebastião da Bela Vista
+5289:São Sebastião do Maranhão
+5291:São Sebastião do Oeste
+5293:São Sebastião do Paraíso
+5295:São Sebastião do Rio Preto
+5297:São Sebastião do Rio Verde
+5299:São Tiago
+5301:São Tomás de Aquino
+5303:São Tomé das Letras
+5305:São Vicente de Minas
+5307:Sapucaí-Mirim
+5309:Sardoá
+5311:Senador Cortes
+5313:Senador Firmino
+5315:Senador José Bento
+5317:Senador Modestino Gonçalves
+5319:Senhora de Oliveira
+5321:Senhora do Porto
+5323:Senhora dos Remédios
+5325:Sericita
+5327:Seritinga
+5329:Serra Azul de Minas
+5331:Serra da Saudade
+5333:Serra dos Aimorés
+5335:Serra do Salitre
+5337:Serrania
+5339:Serranos
+5341:Serro
+5343:Sete Lagoas
+5345:Silveirânia
+5347:Silvianópolis
+5349:Simão Pereira
+5351:Simonésia
+5353:Sobrália
+5355:Soledade de Minas
+5357:Tabuleiro
+5359:Taiobeiras
+5361:Tapira
+5363:Tapiraí
+5365:Taquaraçu de Minas
+5367:Tarumirim
+5369:Teixeiras
+5371:Teófilo Otoni
+5373:Timóteo
+5375:Tiradentes
+5377:Tiros
+5379:Tocantins
+5381:Toledo
+5383:Tombos
+5385:Três Corações
+5387:Três Pontas
+5389:Tumiritinga
+5391:Tupaciguara
+5393:Turmalina
+5395:Turvolândia
+5397:Ubá
+5399:Ubaí
+5401:Uberaba
+5403:Uberlândia
+5405:Umburatiba
+5407:Unaí
+5409:Urucânia
+5411:Vargem Bonita
+5413:Varginha
+5415:Várzea da Palma
+5417:Varzelândia
+5419:Vazante
+5421:Wenceslau Braz
+5423:Veríssimo
+5425:Vespasiano
+5427:Viçosa
+5429:Vieiras
+5431:Mathias Lobato
+5433:Virgem da Lapa
+5435:Virgínia
+5437:Virginópolis
+5439:Virgolândia
+5441:Visconde do Rio Branco
+5443:Volta Grande
+5445:Saltinho
+5447:São Lourenço da Serra
+5449:Doutor Ulysses
+5451:Itaperuçu
+5453:Pinhais
+5455:Tunas do Paraná
+5457:Nova Santa Bárbara
+5459:Mauá da Serra
+5461:Pitangueiras
+5463:Anahy
+5465:Diamante do Sul
+5467:Iguatu
+5469:Santa Lúcia
+5471:Boa Esperança do Iguaçu
+5473:Cruzeiro do Iguaçu
+5475:Flor da Serra do Sul
+5477:Nova Esperança do Sudoeste
+5479:Nova Laranjeiras
+5481:Rio Bonito do Iguaçu
+5483:Virmond
+5485:Iracema do Oeste
+5487:Maripá
+5489:São Pedro do Iguaçu
+5491:Cafezal do Sul
+5493:Saudade do Iguaçu
+5495:Pinhal de São Bento
+5497:Ventania
+5499:Candói
+5501:Laranjal
+5503:Mato Rico
+5505:Santa Maria do Oeste
+5507:Lidianópolis
+5509:Ângulo
+5511:Farol
+5513:Rancho Alegre D'Oeste
+5515:São Manoel do Paraná
+5517:Novo Itacolomi
+5519:Santa Mônica
+5521:Brasilândia do Sul
+5523:Alto Paraíso
+5525:Itaipulândia
+5527:Ramilândia
+5529:Entre Rios do Oeste
+5531:Mercedes
+5533:Pato Bragado
+5535:Quatro Pontes
+5537:Bombinhas
+5539:Morro Grande
+5541:Passo de Torres
+5543:Cocal do Sul
+5545:Capivari de Baixo
+5547:Sangão
+5549:Balneário Barra do Sul
+5551:São João do Itaperiú
+5553:Calmon
+5555:Santa Terezinha
+5557:Braço do Trombudo
+5559:Mirim Doce
+5561:Monte Carlo
+5563:Vargem
+5565:Vargem Bonita
+5567:Cerro Negro
+5569:Ponte Alta do Norte
+5571:Rio Rufino
+5573:São Cristóvão do Sul
+5575:Macieira
+5577:Águas Frias
+5579:Cordilheira Alta
+5581:Formosa do Sul
+5583:Guatambú
+5585:Irati
+5587:Jardinópolis
+5589:Nova Itaberaba
+5591:Novo Horizonte
+5593:Planalto Alegre
+5595:Sul Brasil
+5597:Arabutã
+5599:Arvoredo
+5601:Afonso Cláudio
+5603:Alegre
+5605:Alfredo Chaves
+5607:Anchieta
+5609:Apiacá
+5611:Aracruz
+5613:Atílio Vivácqua
+5615:Baixo Guandu
+5617:Barra de São Francisco
+5619:Boa Esperança
+5621:Bom Jesus do Norte
+5623:Cachoeiro de Itapemirim
+5625:Cariacica
+5627:Castelo
+5629:Colatina
+5631:Conceição da Barra
+5633:Conceição do Castelo
+5635:Divino de São Lourenço
+5637:Domingos Martins
+5639:Dores do Rio Preto
+5641:Ecoporanga
+5643:Fundão
+5645:Guaçuí
+5647:Guarapari
+5649:Ibiraçu
+5651:Iconha
+5653:Itaguaçu
+5655:Itapemirim
+5657:Itarana
+5659:Iúna
+5661:Jerônimo Monteiro
+5663:Linhares
+5665:Mantenópolis
+5667:Mimoso do Sul
+5669:Montanha
+5671:Mucurici
+5673:Muniz Freire
+5675:Muqui
+5677:Nova Venécia
+5679:Pancas
+5681:Pinheiros
+5683:Piúma
+5685:Presidente Kennedy
+5687:Rio Novo do Sul
+5689:Santa Leopoldina
+5691:Santa Teresa
+5693:São Gabriel da Palha
+5695:São José do Calçado
+5697:São Mateus
+5699:Serra
+5701:Viana
+5703:Vila Velha
+5705:Vitória
+5707:Marilândia
+5709:Ibatiba
+5711:Rio Bananal
+5713:Jaguaré
+5715:Pedro Canário
+5717:Água Doce do Norte
+5719:Alto Rio Novo
+5721:João Neiva
+5723:Laranja da Terra
+5725:Santa Maria de Jetibá
+5727:Vargem Alta
+5729:Venda Nova do Imigrante
+5731:Itaú de Minas
+5733:Águia Branca
+5735:Coronel Martins
+5737:Ipuaçu
+5739:Lajeado Grande
+5741:Ouro Verde
+5743:Passos Maia
+5745:Belmonte
+5747:Paraíso
+5749:Riqueza
+5751:Santa Helena
+5753:São João do Oeste
+5755:São Miguel da Boa Vista
+5757:Nova Santa Rita
+5759:Mariana Pimentel
+5761:Sertão Santana
+5763:Gramado Xavier
+5765:Passo do Sobrado
+5767:Sinimbu
+5769:Vale do Sol
+5771:Barão do Triunfo
+5773:Minas do Leão
+5775:Morrinhos do Sul
+5777:Três Forquilhas
+5779:Arambaré
+5781:Sentinela do Sul
+5783:Maquiné
+5785:Xangri-lá
+5787:Pinhal Grande
+5789:Quevedos
+5791:São João do Polêsine
+5793:São Martinho da Serra
+5795:Vila Nova do Sul
+5797:Coxilha
+5799:Gentil
+5801:Angra dos Reis
+5803:Araruama
+5805:Barra do Piraí
+5807:Barra Mansa
+5809:Bom Jardim
+5811:Bom Jesus do Itabapoana
+5813:Cabo Frio
+5815:Cachoeiras de Macacu
+5817:Cambuci
+5819:Campos dos Goytacazes
+5821:Cantagalo
+5823:Carmo
+5825:Casimiro de Abreu
+5827:Conceição de Macabu
+5829:Cordeiro
+5831:Duas Barras
+5833:Duque de Caxias
+5835:Engenheiro Paulo de Frontin
+5837:Itaboraí
+5839:Itaguaí
+5841:Itaocara
+5843:Itaperuna
+5845:Laje do Muriaé
+5847:Macaé
+5849:Magé
+5851:Mangaratiba
+5853:Maricá
+5855:Mendes
+5857:Miguel Pereira
+5859:Miracema
+5861:Natividade
+5863:Nilópolis
+5865:Niterói
+5867:Nova Friburgo
+5869:Nova Iguaçu
+5871:Paracambi
+5873:Paraíba do Sul
+5875:Paraty
+5877:Petrópolis
+5879:Piraí
+5881:Porciúncula
+5883:Resende
+5885:Rio Bonito
+5887:Rio Claro
+5889:Rio das Flores
+5891:Santa Maria Madalena
+5893:Santo Antônio de Pádua
+5895:São Fidélis
+5897:São Gonçalo
+5899:São João da Barra
+5901:São João de Meriti
+5903:São Pedro da Aldeia
+5905:São Sebastião do Alto
+5907:Sapucaia
+5909:Saquarema
+5911:Silva Jardim
+5913:Sumidouro
+5915:Teresópolis
+5917:Trajano de Moraes
+5919:Três Rios
+5921:Valença
+5923:Vassouras
+5925:Volta Redonda
+5927:Arraial do Cabo
+5929:Italva
+5931:Mato Castelhano
+5933:Mormaço
+5935:Muliterno
+5937:Nicolau Vergueiro
+5939:Pontão
+5941:Santo Antônio do Palma
+5943:Barra Funda
+5945:Coqueiros do Sul
+5947:Engenho Velho
+5949:Gramado dos Loureiros
+5951:Lagoa dos Três Cantos
+5953:Nova Boa Vista
+5955:Rio dos Índios
+5957:Santo Antônio do Planalto
+5959:Barra do Rio Azul
+5961:Carlos Gomes
+5963:Centenário
+5965:Charrua
+5967:Ponte Preta
+5969:Ametista do Sul
+5971:Dois Irmãos das Missões
+5973:Novo Tiradentes
+5975:Pinheirinho do Vale
+5977:Santo Expedito do Sul
+5979:Tupanci do Sul
+5981:Boa Vista das Missões
+5983:Lajeado do Bugre
+5985:Novo Barreiro
+5987:Sagrada Família
+5989:São José das Missões
+5991:Nova Pádua
+5993:Monte Belo do Sul
+5995:Santa Tereza
+5997:São Valentim do Sul
+5999:União da Serra
+6001:Rio de Janeiro
+6003:Itatiaia
+6005:Paty do Alferes
+6007:Quissamã
+6009:São José do Vale do Rio Preto
+6011:Ibitirama
+6013:Campestre da Serra
+6015:São José dos Ausentes
+6017:Lindolfo Collor
+6019:Morro Reuter
+6021:Picada Café
+6023:Presidente Lucena
+6025:Capitão
+6027:Itapuca
+6029:Colinas
+6031:Mato Leitão
+6033:Santa Clara do Sul
+6035:Sério
+6037:Travesseiro
+6039:Maratá
+6041:Pareci Novo
+6043:São Pedro da Serra
+6045:Alto Feliz
+6047:Linha Nova
+6049:Vale Real
+6051:Inhacorá
+6053:Vitória das Missões
+6055:Coronel Barros
+6057:Novo Machado
+6059:São José do Inhacorá
+6061:Salvador das Missões
+6063:São Pedro do Butiá
+6065:Porto Mauá
+6067:Porto Vera Cruz
+6069:Barra do Guarita
+6071:Bom Progresso
+6073:Derrubadas
+6075:São Valério do Sul
+6077:Tiradentes do Sul
+6079:Manoel Viana
+6081:Garruchos
+6083:Candiota
+6085:Hulha Negra
+6087:São José do Povo
+6101:Adamantina
+6103:Adolfo
+6105:Aguaí
+6107:Águas da Prata
+6109:Águas de Lindóia
+6111:Águas de São Pedro
+6113:Agudos
+6115:Alfredo Marcondes
+6117:Altair
+6119:Altinópolis
+6121:Alto Alegre
+6123:Álvares Florence
+6125:Álvares Machado
+6127:Álvaro de Carvalho
+6129:Alvinlândia
+6131:Americana
+6133:Américo Brasiliense
+6135:Américo de Campos
+6137:Amparo
+6139:Analândia
+6141:Andradina
+6143:Angatuba
+6145:Anhembi
+6147:Anhumas
+6149:Aparecida
+6151:Aparecida d'Oeste
+6153:Apiaí
+6155:Araçatuba
+6157:Araçoiaba da Serra
+6159:Aramina
+6161:Arandu
+6163:Araraquara
+6165:Araras
+6167:Arealva
+6169:Areias
+6171:Areiópolis
+6173:Ariranha
+6175:Artur Nogueira
+6177:Arujá
+6179:Assis
+6181:Atibaia
+6183:Auriflama
+6185:Avaí
+6187:Avanhandava
+6189:Avaré
+6191:Bady Bassitt
+6193:Balbinos
+6195:Bálsamo
+6197:Bananal
+6199:Barbosa
+6201:Barão de Antonina
+6203:Bariri
+6205:Barra Bonita
+6207:Barra do Turvo
+6209:Barretos
+6211:Barrinha
+6213:Barueri
+6215:Bastos
+6217:Batatais
+6219:Bauru
+6221:Bebedouro
+6223:Bento de Abreu
+6225:Bernardino de Campos
+6227:Bilac
+6229:Birigui
+6231:Biritiba Mirim
+6233:Boa Esperança do Sul
+6235:Bocaina
+6237:Bofete
+6239:Boituva
+6241:Bom Jesus dos Perdões
+6243:Borá
+6245:Boracéia
+6247:Borborema
+6249:Botucatu
+6251:Bragança Paulista
+6255:Braúna
+6257:Brodowski
+6259:Brotas
+6261:Buri
+6263:Buritama
+6265:Buritizal
+6267:Cabrália Paulista
+6269:Cabreúva
+6271:Caçapava
+6273:Cachoeira Paulista
+6275:Caconde
+6277:Cafelândia
+6279:Caiabu
+6281:Caieiras
+6283:Caiuá
+6285:Cajamar
+6287:Cajobi
+6289:Cajuru
+6291:Campinas
+6293:Campo Limpo Paulista
+6295:Campos do Jordão
+6297:Campos Novos Paulista
+6299:Cananéia
+6301:Cândido Mota
+6303:Cândido Rodrigues
+6305:Capão Bonito
+6307:Capela do Alto
+6309:Capivari
+6311:Caraguatatuba
+6313:Carapicuíba
+6315:Cardoso
+6317:Casa Branca
+6319:Cássia dos Coqueiros
+6321:Castilho
+6323:Catanduva
+6325:Catiguá
+6327:Cedral
+6329:Cerqueira César
+6331:Cerquilho
+6333:Cesário Lange
+6335:Charqueada
+6337:Chavantes
+6339:Clementina
+6341:Colina
+6343:Colômbia
+6345:Conchal
+6347:Conchas
+6349:Cordeirópolis
+6351:Coroados
+6353:Coronel Macedo
+6355:Corumbataí
+6357:Cosmópolis
+6359:Cosmorama
+6361:Cotia
+6363:Cravinhos
+6365:Cristais Paulista
+6367:Cruzália
+6369:Cruzeiro
+6371:Cubatão
+6373:Cunha
+6375:Descalvado
+6377:Diadema
+6379:Divinolândia
+6381:Dobrada
+6383:Dois Córregos
+6385:Dolcinópolis
+6387:Dourado
+6389:Dracena
+6391:Duartina
+6393:Dumont
+6395:Echaporã
+6397:Eldorado
+6399:Elias Fausto
+6401:Embu das Artes
+6403:Embu-Guaçu
+6405:Estrela d'Oeste
+6407:Estrela do Norte
+6409:Fartura
+6411:Fernandópolis
+6413:Fernando Prestes
+6415:Ferraz de Vasconcelos
+6417:Flora Rica
+6419:Floreal
+6421:Flórida Paulista
+6423:Florínea
+6425:Franca
+6427:Francisco Morato
+6429:Franco da Rocha
+6431:Gabriel Monteiro
+6433:Gália
+6435:Garça
+6437:Gastão Vidigal
+6439:General Salgado
+6441:Getulina
+6443:Glicério
+6445:Guaiçara
+6447:Guaimbê
+6449:Guaíra
+6451:Guapiaçu
+6453:Guapiara
+6455:Guará
+6457:Guaraçaí
+6459:Guaraci
+6461:Guarani d'Oeste
+6463:Guarantã
+6465:Guararapes
+6467:Guararema
+6469:Guaratinguetá
+6471:Guareí
+6473:Guariba
+6475:Guarujá
+6477:Guarulhos
+6479:Guzolândia
+6481:Herculândia
+6483:Iacanga
+6485:Iacri
+6487:Ibaté
+6489:Ibirá
+6491:Ibirarema
+6493:Ibitinga
+6495:Ibiúna
+6497:Icém
+6499:Iepê
+6501:Igaraçu do Tietê
+6503:Igarapava
+6505:Igaratá
+6507:Iguape
+6509:Ilhabela
+6511:Indaiatuba
+6513:Indiana
+6515:Indiaporã
+6517:Inúbia Paulista
+6519:Ipaussu
+6521:Iperó
+6523:Ipeúna
+6525:Iporanga
+6527:Ipuã
+6529:Iracemápolis
+6531:Irapuã
+6533:Irapuru
+6535:Itaberá
+6537:Itaí
+6539:Itajobi
+6541:Itaju
+6543:Itanhaém
+6545:Itapecerica da Serra
+6547:Itapetininga
+6549:Itapeva
+6551:Itapevi
+6553:Itapira
+6555:Itápolis
+6557:Itaporanga
+6559:Itapuí
+6561:Itapura
+6563:Itaquaquecetuba
+6565:Itararé
+6567:Itariri
+6569:Itatiba
+6571:Itatinga
+6573:Itirapina
+6575:Itirapuã
+6577:Itobi
+6579:Itu
+6581:Itupeva
+6583:Ituverava
+6585:Jaborandi
+6587:Jaboticabal
+6589:Jacareí
+6591:Jaci
+6593:Jacupiranga
+6595:Jaguariúna
+6597:Jales
+6599:Jambeiro
+6601:Jandira
+6603:Jardinópolis
+6605:Jarinu
+6607:Jaú
+6609:Jeriquara
+6611:Joanópolis
+6613:João Ramalho
+6615:José Bonifácio
+6617:Júlio Mesquita
+6619:Jundiaí
+6621:Junqueirópolis
+6623:Juquiá
+6625:Juquitiba
+6627:Lagoinha
+6629:Laranjal Paulista
+6631:Lavínia
+6633:Lavrinhas
+6635:Leme
+6637:Lençóis Paulista
+6639:Limeira
+6641:Lindóia
+6643:Lins
+6645:Lorena
+6647:Louveira
+6649:Lucélia
+6651:Lucianópolis
+6653:Luís Antônio
+6655:Luiziânia
+6657:Lupércio
+6659:Lutécia
+6661:Macatuba
+6663:Macaubal
+6665:Macedônia
+6667:Magda
+6669:Mairinque
+6671:Mairiporã
+6673:Manduri
+6675:Marabá Paulista
+6677:Maracaí
+6679:Mariápolis
+6681:Marília
+6683:Marinópolis
+6685:Martinópolis
+6687:Matão
+6689:Mauá
+6691:Mendonça
+6693:Meridiano
+6695:Miguelópolis
+6697:Mineiros do Tietê
+6699:Miracatu
+6701:Mira Estrela
+6703:Mirandópolis
+6705:Mirante do Paranapanema
+6707:Mirassol
+6709:Mirassolândia
+6711:Mococa
+6713:Mogi das Cruzes
+6715:Mogi Guaçu
+6717:Mogi Mirim
+6719:Mombuca
+6721:Monções
+6723:Mongaguá
+6725:Monte Alegre do Sul
+6727:Monte Alto
+6729:Monte Aprazível
+6731:Monte Azul Paulista
+6733:Monte Castelo
+6735:Monteiro Lobato
+6737:Monte Mor
+6739:Morro Agudo
+6741:Morungaba
+6743:Murutinga do Sul
+6745:Narandiba
+6747:Natividade da Serra
+6749:Nazaré Paulista
+6751:Neves Paulista
+6753:Nhandeara
+6755:Nipoã
+6757:Nova Aliança
+6759:Nova Europa
+6761:Nova Granada
+6763:Nova Guataporanga
+6765:Nova Independência
+6767:Nova Luzitânia
+6769:Nova Odessa
+6771:Novo Horizonte
+6773:Nuporanga
+6775:Ocauçu
+6777:Óleo
+6779:Olímpia
+6781:Onda Verde
+6783:Oriente
+6785:Orindiúva
+6787:Orlândia
+6789:Osasco
+6791:Oscar Bressane
+6793:Osvaldo Cruz
+6795:Ourinhos
+6797:Ouro Verde
+6799:Pacaembu
+6801:Palestina
+6803:Palmares Paulista
+6805:Palmeira d'Oeste
+6807:Palmital
+6809:Panorama
+6811:Paraguaçu Paulista
+6813:Paraibuna
+6815:Paraíso
+6817:Paranapanema
+6819:Paranapuã
+6821:Parapuã
+6823:Pardinho
+6825:Pariquera-Açu
+6827:Patrocínio Paulista
+6829:Paulicéia
+6831:Paulínia
+6833:Paulo de Faria
+6835:Pederneiras
+6837:Pedra Bela
+6839:Pedranópolis
+6841:Pedregulho
+6843:Pedreira
+6845:Pedro de Toledo
+6847:Penápolis
+6849:Pereira Barreto
+6851:Pereiras
+6853:Peruíbe
+6855:Piacatu
+6857:Piedade
+6859:Pilar do Sul
+6861:Pindamonhangaba
+6863:Pindorama
+6865:Espírito Santo do Pinhal
+6867:Pinhalzinho
+6869:Piquerobi
+6871:Piquete
+6873:Piracaia
+6875:Piracicaba
+6877:Piraju
+6879:Pirajuí
+6881:Pirangi
+6883:Pirapora do Bom Jesus
+6885:Pirapozinho
+6887:Pirassununga
+6889:Piratininga
+6891:Pitangueiras
+6893:Planalto
+6895:Platina
+6897:Poá
+6899:Poloni
+6901:Pompéia
+6903:Pongaí
+6905:Pontal
+6907:Pontes Gestal
+6909:Populina
+6911:Porangaba
+6913:Porto Feliz
+6915:Porto Ferreira
+6917:Potirendaba
+6919:Pradópolis
+6921:Praia Grande
+6923:Presidente Alves
+6925:Presidente Bernardes
+6927:Presidente Epitácio
+6929:Presidente Prudente
+6931:Presidente Venceslau
+6933:Promissão
+6935:Quatá
+6937:Queiroz
+6939:Queluz
+6941:Quintana
+6943:Rafard
+6945:Rancharia
+6947:Redenção da Serra
+6949:Regente Feijó
+6951:Reginópolis
+6953:Registro
+6955:Restinga
+6957:Ribeira
+6959:Ribeirão Bonito
+6961:Ribeirão Branco
+6963:Ribeirão Corrente
+6965:Ribeirão do Sul
+6967:Ribeirão Pires
+6969:Ribeirão Preto
+6971:Riversul
+6973:Rifaina
+6975:Rincão
+6977:Rinópolis
+6979:Rio Claro
+6981:Rio das Pedras
+6983:Rio Grande da Serra
+6985:Riolândia
+6987:Roseira
+6989:Rubiácea
+6991:Rubinéia
+6993:Sabino
+6995:Sagres
+6997:Sales
+6999:Sales Oliveira
+7001:Salesópolis
+7003:Salmourão
+7005:Salto
+7007:Salto de Pirapora
+7009:Salto Grande
+7011:Sandovalina
+7013:Santa Adélia
+7015:Santa Albertina
+7017:Santa Bárbara d'Oeste
+7019:Águas de Santa Bárbara
+7021:Santa Branca
+7023:Santa Clara d'Oeste
+7025:Santa Cruz da Conceição
+7027:Santa Cruz das Palmeiras
+7029:Santa Cruz do Rio Pardo
+7031:Santa Ernestina
+7033:Santa Fé do Sul
+7035:Santa Gertrudes
+7037:Santa Isabel
+7039:Santa Lúcia
+7041:Santa Maria da Serra
+7043:Santa Mercedes
+7045:Santana da Ponte Pensa
+7047:Santana de Parnaíba
+7049:Santa Rita d'Oeste
+7051:Santa Rita do Passa Quatro
+7053:Santa Rosa de Viterbo
+7055:Santo Anastácio
+7057:Santo André
+7059:Santo Antônio da Alegria
+7061:Santo Antônio de Posse
+7063:Santo Antônio do Jardim
+7065:Santo Antônio do Pinhal
+7067:Santo Expedito
+7069:Santópolis do Aguapeí
+7071:Santos
+7073:São Bento do Sapucaí
+7075:São Bernardo do Campo
+7077:São Caetano do Sul
+7079:São Carlos
+7081:São Francisco
+7083:São João da Boa Vista
+7085:São João das Duas Pontes
+7087:São João do Pau d'Alho
+7089:São Joaquim da Barra
+7091:São José da Bela Vista
+7093:São José do Barreiro
+7095:São José do Rio Pardo
+7097:São José do Rio Preto
+7099:São José dos Campos
+7101:São Luiz do Paraitinga
+7103:São Manuel
+7105:São Miguel Arcanjo
+7107:São Paulo
+7109:São Pedro
+7111:São Pedro do Turvo
+7113:São Roque
+7115:São Sebastião
+7117:São Sebastião da Grama
+7119:São Simão
+7121:São Vicente
+7123:Sarapuí
+7125:Sarutaiá
+7127:Sebastianópolis do Sul
+7129:Serra Azul
+7131:Serrana
+7133:Serra Negra
+7135:Sertãozinho
+7137:Sete Barras
+7139:Severínia
+7141:Silveiras
+7143:Socorro
+7145:Sorocaba
+7147:Sud Mennucci
+7149:Sumaré
+7151:Suzano
+7153:Tabapuã
+7155:Tabatinga
+7157:Taboão da Serra
+7159:Taciba
+7161:Taguaí
+7163:Taiaçu
+7165:Taiúva
+7167:Tambaú
+7169:Tanabi
+7171:Tapiraí
+7173:Tapiratiba
+7175:Taquaritinga
+7177:Taquarituba
+7179:Tarabai
+7181:Tatuí
+7183:Taubaté
+7185:Tejupá
+7187:Teodoro Sampaio
+7189:Terra Roxa
+7191:Tietê
+7193:Timburi
+7195:Torrinha
+7197:Tremembé
+7199:Três Fronteiras
+7201:Tupã
+7203:Tupi Paulista
+7205:Turiúba
+7207:Turmalina
+7209:Ubatuba
+7211:Ubirajara
+7213:Uchoa
+7215:União Paulista
+7217:Urânia
+7219:Uru
+7221:Urupês
+7223:Valentim Gentil
+7225:Valinhos
+7227:Valparaíso
+7231:Vargem Grande do Sul
+7233:Várzea Paulista
+7235:Vera Cruz
+7237:Vinhedo
+7239:Viradouro
+7241:Vista Alegre do Alto
+7243:Votorantim
+7245:Votuporanga
+7247:Borebi
+7249:Dirce Reis
+7251:Embaúba
+7253:Espírito Santo do Turvo
+7255:Euclides da Cunha Paulista
+7257:Guatapará
+7259:Iaras
+7263:Motuca
+7265:Rosana
+7267:Tarumã
+7273:Vargem Grande Paulista
+7293:São Vendelino
+7295:Imigrante
+7297:Imbé
+7299:Ibirapuitã
+7301:Estação
+7303:Vista Gaúcha
+7305:Vista Alegre do Prata
+7307:Vista Alegre
+7309:Vila Maria
+7311:Vila Flores
+7313:Taquaruçu do Sul
+7315:Silveira Martins
+7317:Segredo
+7319:Vanini
+7321:Tupandi
+7323:Tunas
+7325:Trindade do Sul
+7327:Três Palmeiras
+7329:Três Cachoeiras
+7331:Três Arroios
+7333:Terra de Areia
+7335:Sede Nova
+7337:Santa Maria do Herval
+7339:Saldanha Marinho
+7341:São Miguel das Missões
+7343:São José do Hortêncio
+7345:São José do Herval
+7347:São Jorge
+7349:São João da Urtiga
+7351:São Domingos do Sul
+7353:Riozinho
+7355:Relvado
+7357:Quinze de Novembro
+7359:Protásio Alves
+7361:Progresso
+7363:Pouso Novo
+7365:Poço das Antas
+7367:Pirapó
+7369:Pinhal
+7371:Paverama
+7373:Paraíso do Sul
+7375:Pantano Grande
+7377:Nova Roma do Sul
+7379:Nova Hartz
+7381:Nova Esperança do Sul
+7383:Nova Alvorada
+7385:Morro Redondo
+7387:Montauri
+7389:Lagoão
+7391:Jaquirana
+7393:Jaboticaba
+7395:Ivorá
+7397:Itacurubi
+7399:Ipiranga do Sul
+7401:Abatiá
+7403:Adrianópolis
+7405:Agudos do Sul
+7407:Almirante Tamandaré
+7409:Alto Paraná
+7411:Alto Piquiri
+7413:Alvorada do Sul
+7415:Amaporã
+7417:Ampére
+7419:Andirá
+7421:Antonina
+7423:Antônio Olinto
+7425:Apucarana
+7427:Arapongas
+7429:Arapoti
+7431:Araruna
+7433:Marilândia do Sul
+7435:Araucária
+7437:Assaí
+7439:Astorga
+7441:Atalaia
+7443:Balsa Nova
+7445:Bandeirantes
+7447:Barbosa Ferraz
+7449:Barracão
+7451:Barra do Jacaré
+7453:Bela Vista do Paraíso
+7455:Bituruna
+7457:Boa Esperança
+7459:Bocaiúva do Sul
+7461:Bom Sucesso
+7463:Borrazópolis
+7465:Cafeara
+7467:Califórnia
+7469:Cambará
+7471:Cambé
+7473:Cambira
+7475:Campina da Lagoa
+7477:Campina Grande do Sul
+7479:Campo do Tenente
+7481:Campo Largo
+7483:Campo Mourão
+7485:Cândido de Abreu
+7487:Capanema
+7489:Capitão Leônidas Marques
+7491:Carlópolis
+7493:Cascavel
+7495:Castro
+7497:Catanduvas
+7499:Centenário do Sul
+7501:Cerro Azul
+7503:Chopinzinho
+7505:Cianorte
+7507:Cidade Gaúcha
+7509:Clevelândia
+7511:Mangueirinha
+7513:Colombo
+7515:Colorado
+7517:Congonhinhas
+7519:Conselheiro Mairinck
+7521:Contenda
+7523:Corbélia
+7525:Cornélio Procópio
+7527:Coronel Vivida
+7529:Cruzeiro do Oeste
+7531:Cruzeiro do Sul
+7533:Cruz Machado
+7535:Curitiba
+7537:Curiúva
+7539:Diamante do Norte
+7541:Dois Vizinhos
+7543:Doutor Camargo
+7545:Enéas Marques
+7547:Engenheiro Beltrão
+7549:Faxinal
+7551:Fênix
+7553:Floraí
+7555:Floresta
+7557:Florestópolis
+7559:Flórida
+7561:Formosa do Oeste
+7563:Foz do Iguaçu
+7565:Francisco Beltrão
+7567:General Carneiro
+7569:Goioerê
+7571:Guaíra
+7573:Guairaçá
+7575:Guapirama
+7577:Guaporema
+7579:Guaraci
+7581:Guaraniaçu
+7583:Guarapuava
+7585:Guaraqueçaba
+7587:Guaratuba
+7589:Ibaiti
+7591:Ibiporã
+7593:Icaraíma
+7595:Iguaraçu
+7597:Imbituva
+7599:Inácio Martins
+7601:Inajá
+7603:Ipiranga
+7605:Iporã
+7607:Irati
+7609:Iretama
+7611:Itaguajé
+7613:Itambaracá
+7615:Itambé
+7617:Itapejara d'Oeste
+7619:Itaúna do Sul
+7621:Ivaí
+7623:Ivaiporã
+7625:Ivatuba
+7627:Jaboti
+7629:Jacarezinho
+7631:Jaguapitã
+7633:Jaguariaíva
+7635:Jandaia do Sul
+7637:Janiópolis
+7639:Japira
+7641:Japurá
+7643:Jardim Alegre
+7645:Jardim Olinda
+7647:Jataizinho
+7649:Joaquim Távora
+7651:Jundiaí do Sul
+7653:Jussara
+7655:Kaloré
+7657:Lapa
+7659:Laranjeiras do Sul
+7661:Leópolis
+7663:Loanda
+7665:Lobato
+7667:Londrina
+7669:Lupionópolis
+7671:Mallet
+7673:Mamborê
+7675:Mandaguaçu
+7677:Mandaguari
+7679:Mandirituba
+7681:Manoel Ribas
+7683:Marechal Cândido Rondon
+7685:Maria Helena
+7687:Marialva
+7689:Mariluz
+7691:Maringá
+7693:Mariópolis
+7695:Marmeleiro
+7697:Marumbi
+7699:Matelândia
+7701:Medianeira
+7703:Mirador
+7705:Miraselva
+7707:Moreira Sales
+7709:Morretes
+7711:Munhoz de Melo
+7713:Nossa Senhora das Graças
+7715:Nova Aliança do Ivaí
+7717:Nova América da Colina
+7719:Nova Cantu
+7721:Nova Esperança
+7723:Nova Fátima
+7725:Nova Londrina
+7727:Ortigueira
+7729:Ourizona
+7731:Paiçandu
+7733:Palmas
+7735:Palmeira
+7737:Palmital
+7739:Palotina
+7741:Paraíso do Norte
+7743:Paranacity
+7745:Paranaguá
+7747:Paranapoema
+7749:Paranavaí
+7751:Pato Branco
+7753:Paula Freitas
+7755:Paulo Frontin
+7757:Peabiru
+7759:Pérola d'Oeste
+7761:Piên
+7763:Pinhalão
+7765:Pinhão
+7767:Piraí do Sul
+7769:Piraquara
+7771:Pitanga
+7773:Planaltina do Paraná
+7775:Planalto
+7777:Ponta Grossa
+7779:Porecatu
+7781:Porto Amazonas
+7783:Porto Rico
+7785:Porto Vitória
+7787:Presidente Castelo Branco
+7789:Primeiro de Maio
+7791:Prudentópolis
+7793:Quatiguá
+7795:Quatro Barras
+7797:Querência do Norte
+7799:Quinta do Sol
+7801:Quitandinha
+7803:Rancho Alegre
+7805:Realeza
+7807:Rebouças
+7809:Renascença
+7811:Reserva
+7813:Ribeirão Claro
+7815:Ribeirão do Pinhal
+7817:Rio Azul
+7819:Rio Bom
+7821:Rio Branco do Sul
+7823:Rio Negro
+7825:Rolândia
+7827:Roncador
+7829:Rondon
+7831:Sabáudia
+7833:Salgado Filho
+7835:Salto do Itararé
+7837:Salto do Lontra
+7839:Santa Amélia
+7841:Santa Cecília do Pavão
+7843:Santa Cruz de Monte Castelo
+7845:Santa Fé
+7847:Santa Inês
+7849:Santa Isabel do Ivaí
+7851:Santa Izabel do Oeste
+7853:Santa Mariana
+7855:Santana do Itararé
+7857:Santo Antônio do Sudoeste
+7859:Santo Antônio da Platina
+7861:Santo Antônio do Caiuá
+7863:Santo Antônio do Paraíso
+7865:Santo Inácio
+7867:São Carlos do Ivaí
+7869:São Jerônimo da Serra
+7871:São João
+7873:São João do Caiuá
+7875:São João do Ivaí
+7877:São João do Triunfo
+7879:São Jorge do Ivaí
+7881:São Jorge d'Oeste
+7883:São José da Boa Vista
+7885:São José dos Pinhais
+7887:São Mateus do Sul
+7889:São Miguel do Iguaçu
+7891:São Pedro do Ivaí
+7893:São Pedro do Paraná
+7895:São Sebastião da Amoreira
+7897:São Tomé
+7899:Sapopema
+7901:Sengés
+7903:Sertaneja
+7905:Sertanópolis
+7907:Siqueira Campos
+7909:Tamboara
+7911:Tapejara
+7913:Teixeira Soares
+7915:Telêmaco Borba
+7917:Terra Boa
+7919:Terra Rica
+7921:Terra Roxa
+7923:Tibagi
+7925:Tijucas do Sul
+7927:Toledo
+7929:Tomazina
+7931:Tuneiras do Oeste
+7933:Ubiratã
+7935:Umuarama
+7937:União da Vitória
+7939:Uniflor
+7941:Uraí
+7943:Wenceslau Braz
+7945:Verê
+7947:Vitorino
+7949:Xambrê
+7951:Altônia
+7953:Assis Chateaubriand
+7955:Quedas do Iguaçu
+7957:Céu Azul
+7959:Grandes Rios
+7961:Indianópolis
+7963:Matinhos
+7965:Nova Aurora
+7967:Nova Olímpia
+7969:Pérola
+7971:Santa Helena
+7973:Tapira
+7975:Marilena
+7977:Francisco Alves
+7979:Nova Santa Rosa
+7981:Boa Vista da Aparecida
+7983:Braganey
+7985:Cafelândia
+7987:Três Barras do Paraná
+7989:Vera Cruz do Oeste
+7991:Pranchita
+7993:Tupãssi
+7995:Nova Prata do Iguaçu
+7997:Jesuítas
+7999:São Jorge do Patrocínio
+8001:Abelardo Luz
+8003:Agrolândia
+8005:Agronômica
+8007:Água Doce
+8009:Águas de Chapecó
+8011:Águas Mornas
+8013:Alfredo Wagner
+8015:Anchieta
+8017:Angelina
+8019:Anita Garibaldi
+8021:Anitápolis
+8023:Antônio Carlos
+8025:Araquari
+8027:Araranguá
+8029:Armazém
+8031:Arroio Trinta
+8033:Ascurra
+8035:Atalanta
+8037:Aurora
+8039:Balneário Camboriú
+8041:Barra Velha
+8043:Benedito Novo
+8045:Biguaçu
+8047:Blumenau
+8049:Bom Retiro
+8051:Botuverá
+8053:Braço do Norte
+8055:Brusque
+8057:Caçador
+8059:Caibi
+8061:Camboriú
+8063:Campo Alegre
+8065:Campo Belo do Sul
+8067:Campo Erê
+8069:Campos Novos
+8071:Canelinha
+8073:Canoinhas
+8075:Capinzal
+8077:Catanduvas
+8079:Caxambu do Sul
+8081:Chapecó
+8083:Concórdia
+8085:Coronel Freitas
+8087:Corupá
+8089:Criciúma
+8091:Cunha Porã
+8093:Curitibanos
+8095:Descanso
+8097:Dionísio Cerqueira
+8099:Dona Emma
+8101:Erval Velho
+8103:Faxinal dos Guedes
+8105:Florianópolis
+8107:Fraiburgo
+8109:Galvão
+8111:Governador Celso Ramos
+8113:Garopaba
+8115:Garuva
+8117:Gaspar
+8119:Grão-Pará
+8121:Gravatal
+8123:Guabiruba
+8125:Guaraciaba
+8127:Guaramirim
+8129:Guarujá do Sul
+8131:Herval d'Oeste
+8133:Ibicaré
+8135:Ibirama
+8137:Içara
+8139:Ilhota
+8141:Imaruí
+8143:Imbituba
+8145:Imbuia
+8147:Indaial
+8149:Ipira
+8151:Ipumirim
+8153:Irani
+8155:Irineópolis
+8157:Itá
+8159:Itaiópolis
+8161:Itajaí
+8163:Itapema
+8165:Itapiranga
+8167:Ituporanga
+8169:Jaborá
+8171:Jacinto Machado
+8173:Jaguaruna
+8175:Jaraguá do Sul
+8177:Joaçaba
+8179:Joinville
+8181:Lacerdópolis
+8183:Lages
+8185:Laguna
+8187:Laurentino
+8189:Lauro Müller
+8191:Lebon Régis
+8193:Leoberto Leal
+8195:Lontras
+8197:Luiz Alves
+8199:Mafra
+8201:Major Gercino
+8203:Major Vieira
+8205:Maravilha
+8207:Massaranduba
+8209:Matos Costa
+8211:Meleiro
+8213:Modelo
+8215:Mondaí
+8217:Monte Castelo
+8219:Morro da Fumaça
+8221:Navegantes
+8223:Nova Erechim
+8225:Nova Trento
+8227:Nova Veneza
+8229:Orleans
+8231:Ouro
+8233:Palhoça
+8235:Palma Sola
+8237:Palmitos
+8239:Papanduva
+8241:Paulo Lopes
+8243:Pedras Grandes
+8245:Penha
+8247:Peritiba
+8249:Petrolândia
+8251:Balneário Piçarras
+8253:Pinhalzinho
+8255:Pinheiro Preto
+8257:Piratuba
+8259:Pomerode
+8261:Ponte Alta
+8263:Ponte Serrada
+8265:Porto Belo
+8267:Porto União
+8269:Pouso Redondo
+8271:Praia Grande
+8273:Presidente Castello Branco
+8275:Presidente Getúlio
+8277:Presidente Nereu
+8279:Quilombo
+8281:Rancho Queimado
+8283:Rio das Antas
+8285:Rio do Campo
+8287:Rio do Oeste
+8289:Rio dos Cedros
+8291:Rio do Sul
+8293:Rio Fortuna
+8295:Rio Negrinho
+8297:Rodeio
+8299:Romelândia
+8301:Salete
+8303:Salto Veloso
+8305:Santa Cecília
+8307:Santa Rosa de Lima
+8309:Santo Amaro da Imperatriz
+8311:São Bento do Sul
+8313:São Bonifácio
+8315:São Carlos
+8317:São Domingos
+8319:São Francisco do Sul
+8321:São João Batista
+8323:São João do Sul
+8325:São Joaquim
+8327:São José
+8329:São José do Cedro
+8331:São José do Cerrito
+8333:São Lourenço do Oeste
+8335:São Ludgero
+8337:São Martinho
+8339:São Miguel do Oeste
+8341:Saudades
+8343:Schroeder
+8345:Seara
+8347:Siderópolis
+8349:Sombrio
+8351:Taió
+8353:Tangará
+8355:Tijucas
+8357:Timbó
+8359:Três Barras
+8361:Treze de Maio
+8363:Treze Tílias
+8365:Trombudo Central
+8367:Tubarão
+8369:Turvo
+8371:Urubici
+8373:Urussanga
+8375:Vargeão
+8377:Vidal Ramos
+8379:Videira
+8381:Witmarsum
+8383:Xanxerê
+8385:Xavantina
+8387:Xaxim
+8389:Bom Jardim da Serra
+8391:Maracajá
+8393:Timbé do Sul
+8395:Correia Pinto
+8397:Otacílio Costa
+8399:Ipê
+8401:Ibarama
+8403:Harmonia
+8405:Guabiju
+8407:Glorinha
+8409:Faxinalzinho
+8411:Fagundes Varela
+8413:Eugênio de Castro
+8415:Ernestina
+8417:Erebango
+8419:Entre-Ijuís
+8421:Entre Rios do Sul
+8423:Eldorado do Sul
+8425:Doutor Maurício Cardoso
+8427:Dois Lajeados
+8429:Dezesseis de Novembro
+8431:Cristal
+8433:Cidreira
+8435:Cerro Grande do Sul
+8437:Cerro Grande
+8439:Cerro Branco
+8441:Caseiros
+8443:Capela de Santana
+8445:Campos Borges
+8447:Camargo
+8449:Brochier
+8451:Cantagalo
+8453:Turvo
+8455:Altamira do Paraná
+8457:Figueira
+8459:Lunardelli
+8461:Sarandi
+8463:Juranda
+8465:Douradina
+8467:Santa Terezinha de Itaipu
+8469:Missal
+8471:São José das Palmeiras
+8473:Rosário do Ivaí
+8475:Campo Bonito
+8477:Sulina
+8479:Corumbataí do Sul
+8481:Luiziana
+8483:Boqueirão do Leão
+8485:Barão
+8487:Áurea
+8489:Arroio do Sal
+8491:André da Rocha
+8493:Amaral Ferrador
+8495:Alto Alegre
+8497:Alegria
+8499:Água Santa
+8501:Agudo
+8503:Ajuricaba
+8505:Alecrim
+8507:Alegrete
+8509:Alpestre
+8511:Alvorada
+8513:Anta Gorda
+8515:Antônio Prado
+8517:Aratiba
+8519:Arroio do Meio
+8521:Arroio dos Ratos
+8523:Arroio do Tigre
+8525:Arroio Grande
+8527:Arvorezinha
+8529:Augusto Pestana
+8531:Bagé
+8533:Barão de Cotegipe
+8535:Barracão
+8537:Barra do Ribeiro
+8539:Barros Cassal
+8541:Bento Gonçalves
+8543:Boa Vista do Buricá
+8545:Bom Jesus
+8547:Bom Retiro do Sul
+8549:Bossoroca
+8551:Braga
+8553:Butiá
+8555:Caçapava do Sul
+8557:Cacequi
+8559:Cachoeira do Sul
+8561:Cachoeirinha
+8563:Cacique Doble
+8565:Caibaté
+8567:Caiçara
+8569:Camaquã
+8571:Cambará do Sul
+8573:Campina das Missões
+8575:Campinas do Sul
+8577:Campo Bom
+8579:Campo Novo
+8581:Candelária
+8583:Cândido Godói
+8585:Canela
+8587:Canguçu
+8589:Canoas
+8591:Carazinho
+8593:Carlos Barbosa
+8595:Casca
+8597:Catuípe
+8599:Caxias do Sul
+8601:Cerro Largo
+8603:Chapada
+8605:Chiapetta
+8607:Ciríaco
+8609:Colorado
+8611:Condor
+8613:Constantina
+8615:Coronel Bicaco
+8617:Crissiumal
+8619:Cruz Alta
+8621:Cruzeiro do Sul
+8623:David Canabarro
+8625:Dois Irmãos
+8627:Dom Feliciano
+8629:Dom Pedrito
+8631:Dona Francisca
+8633:Encantado
+8635:Encruzilhada do Sul
+8637:Erechim
+8639:Herval
+8641:Erval Grande
+8643:Erval Seco
+8645:Esmeralda
+8647:Espumoso
+8649:Estância Velha
+8651:Esteio
+8653:Estrela
+8655:Farroupilha
+8657:Faxinal do Soturno
+8659:Feliz
+8661:Flores da Cunha
+8663:Fontoura Xavier
+8665:Formigueiro
+8667:Frederico Westphalen
+8669:Garibaldi
+8671:Gaurama
+8673:General Câmara
+8675:São Vicente do Sul
+8677:Getúlio Vargas
+9359:Flores de Goiás
+9361:Formosa
+9363:Formoso
+9365:Formoso do Araguaia
+9367:Goianápolis
+9369:Goiandira
+9371:Goianésia
+9373:Goiânia
+9375:Goianira
+9377:Goiás
+9379:Goiatuba
+9381:Guapó
+9383:Guarani de Goiás
+9385:Gurupi
+9387:Heitoraí
+9389:Hidrolândia
+9391:Hidrolina
+9393:Iaciara
+9395:Inhumas
+9397:Ipameri
+9399:Iporá
+9401:Israelândia
+9403:Itaberaí
+9405:Itacajá
+9407:Itaguaru
+9409:Itaguatins
+9411:Itajá
+9413:Itapaci
+9415:Itapirapuã
+9417:Itaporã do Tocantins
+9419:Itapuranga
+9421:Itarumã
+9423:Itauçu
+9425:Itumbiara
+9427:Ivolândia
+9429:Jandaia
+9431:Jaraguá
+9433:Jataí
+9435:Jaupaci
+9437:Joviânia
+9439:Jussara
+9441:Aliança do Tocantins
+9443:Leopoldo de Bulhões
+9445:Luziânia
+9447:Mairipotaba
+9449:Mambaí
+9451:Mara Rosa
+9453:Marzagão
+9455:Paranaiguara
+9457:Maurilândia
+9459:Mineiros
+9461:Miracema do Tocantins
+9463:Miranorte
+9465:Moiporá
+9467:Monte Alegre de Goiás
+9469:Monte do Carmo
+9471:Montes Claros de Goiás
+9473:Morrinhos
+9475:Mossâmedes
+9477:Mozarlândia
+9479:Mutunópolis
+9481:Natividade
+9483:Nazaré
+9485:Nazário
+9487:Nerópolis
+9489:Niquelândia
+9491:Nova América
+9493:Nova Aurora
+9495:Nova Roma
+9497:Nova Veneza
+9499:Novo Acordo
+9501:Novo Brasil
+9503:Orizona
+9505:Ouro Verde de Goiás
+9507:Ouvidor
+9509:Padre Bernardo
+9511:Palmeiras de Goiás
+9513:Palmelo
+9515:Palminópolis
+9517:Panamá
+9519:Paraíso do Tocantins
+9521:Paranã
+9523:Paraúna
+9525:Pedro Afonso
+9527:Peixe
+9529:Colméia
+9531:Petrolina de Goiás
+9533:Goiatins
+9535:Pilar de Goiás
+9537:Pindorama do Tocantins
+9539:Piracanjuba
+9541:Piranhas
+9543:Pirenópolis
+9545:Pires do Rio
+9547:Pium
+9549:Pontalina
+9551:Ponte Alta do Bom Jesus
+9553:Ponte Alta do Tocantins
+9555:Porangatu
+9557:Portelândia
+9559:Porto Nacional
+9561:Posse
+9563:Quirinópolis
+9565:Rialma
+9567:Rianápolis
+9569:Lizarda
+9707:
+1070:Campo Limpo de Goiás
+1072:Gameleira de Goiás
+1074:Ipiranga de Goiás
+1076:Lagoa Santa
+1078:Bom Jesus do Araguaia
+1080:Colniza
+1082:Conquista D'Oeste
+1084:Curvelândia
+1086:Nova Nazaré
+1088:Nova Santa Helena
+1090:Novo Santo Antônio
+1092:Rondolândia
+1110:Barrocas
+1112:Luís Eduardo Magalhães
+1114:Governador Lindenberg
+1180:Nazária
+1190:Mojuí dos Campos
+1192:Balneário Rincão
+1194:Pescaria Brava
+1196:Paraíso das Águas
+8679:Giruá
+8681:Gramado
+8683:Gravataí
+8685:Guaíba
+8687:Guaporé
+8689:Guarani das Missões
+8691:Horizontina
+8693:Charqueadas
+8695:Humaitá
+8697:Ibiaçá
+8699:Ibiraiaras
+8701:Ibirubá
+8703:Igrejinha
+8705:Ijuí
+8707:Ilópolis
+8709:Independência
+8711:Iraí
+8713:Itaqui
+8715:Itatiba do Sul
+8717:Ivoti
+8719:Jacutinga
+8721:Jaguarão
+8723:Jaguari
+8725:Júlio de Castilhos
+8727:Lagoa Vermelha
+8729:Lajeado
+8731:Lavras do Sul
+8733:Liberato Salzano
+8735:Machadinho
+8737:Marau
+8739:Marcelino Ramos
+8741:Mariano Moro
+8743:Mata
+8745:Maximiliano de Almeida
+8747:Miraguaí
+8749:Montenegro
+8751:Mostardas
+8753:Muçum
+8755:Não-Me-Toque
+8757:Nonoai
+8759:Nova Araçá
+8761:Nova Bassano
+8763:Nova Bréscia
+8765:Nova Palma
+8767:Nova Petrópolis
+8769:Nova Prata
+8771:Novo Hamburgo
+8773:Osório
+8775:Paim Filho
+8777:Palmeira das Missões
+8779:Palmitinho
+8781:Panambi
+8783:Paraí
+8785:Passo Fundo
+8787:Pedro Osório
+8789:Pejuçara
+8791:Pelotas
+8793:Pinheiro Machado
+8795:Piratini
+8797:Planalto
+8799:Portão
+8801:Porto Alegre
+8803:Porto Lucena
+8805:Porto Xavier
+8807:Putinga
+8809:Quaraí
+8811:Redentora
+8813:Restinga Sêca
+8815:Rio Grande
+8817:Rio Pardo
+8819:Roca Sales
+8821:Rodeio Bonito
+8823:Rolante
+8825:Ronda Alta
+8827:Rondinha
+8829:Roque Gonzales
+8831:Rosário do Sul
+8833:Salvador do Sul
+8835:Sananduva
+8837:Santa Bárbara do Sul
+8839:Santa Cruz do Sul
+8841:Santa Maria
+8843:Santana da Boa Vista
+8845:Sant'Ana do Livramento
+8847:Santa Rosa
+8849:Santa Vitória do Palmar
+8851:Santiago
+8853:Santo Ângelo
+8855:Santo Antônio da Patrulha
+8857:Santo Antônio das Missões
+8859:Santo Augusto
+8861:Santo Cristo
+8863:São Borja
+8865:São Francisco de Assis
+8867:São Francisco de Paula
+8869:São Gabriel
+8871:São Jerônimo
+8873:São José do Norte
+8875:São José do Ouro
+8877:São Leopoldo
+8879:São Lourenço do Sul
+8881:São Luiz Gonzaga
+8883:São Marcos
+8885:São Martinho
+8887:São Nicolau
+8889:São Paulo das Missões
+8891:São Pedro do Sul
+8893:São Sebastião do Caí
+8895:São Sepé
+8897:São Valentim
+8899:Sapiranga
+8901:Sapucaia do Sul
+8903:Sarandi
+8905:Seberi
+8907:Selbach
+8909:Serafina Corrêa
+8911:Sertão
+8913:Severiano de Almeida
+8915:Capão da Canoa
+8917:Sobradinho
+8919:Soledade
+8921:Tapejara
+8923:Tapera
+8925:Tapes
+8927:Taquara
+8929:Taquari
+8931:Tenente Portela
+8933:Torres
+8935:Tramandaí
+8937:Três Coroas
+8939:Três de Maio
+8941:Três Passos
+8943:Triunfo
+8945:Tucunduva
+8947:Tupanciretã
+8949:Tuparendi
+8951:Uruguaiana
+8953:Vacaria
+8955:Venâncio Aires
+8957:Vera Cruz
+8959:Veranópolis
+8961:Viadutos
+8963:Viamão
+8965:Vicente Dutra
+8967:Palmares do Sul
+8969:Victor Graeff
+8971:Tavares
+8973:Capão do Leão
+8975:Salto do Jacuí
+8977:Cotiporã
+8979:Colíder
+8981:Nova Brasilândia
+8983:Paranatinga
+8985:Sinop
+8987:Alta Floresta
+8989:Araputanga
+8991:Jauru
+8993:São José dos Quatro Marcos
+8995:Rio Branco
+8997:Salto do Céu
+8999:Pontes e Lacerda
+9001:Acorizal
+9003:Água Clara
+9005:Alto Araguaia
+9007:Alto Garças
+9009:Alto Paraguai
+9011:Amambai
+9013:Anastácio
+9015:Anaurilândia
+9017:Antônio João
+9019:Aparecida do Taboado
+9021:Aquidauana
+9023:Araguainha
+9025:Arenápolis
+9027:Aripuanã
+9029:Bandeirantes
+9031:Barão de Melgaço
+9033:Barra do Bugres
+9035:Barra do Garças
+9037:Bataguassu
+9039:Batayporã
+9041:Bela Vista
+9043:Bonito
+9045:Brasilândia
+9047:Cáceres
+9049:Camapuã
+9051:Campo Grande
+9053:Caracol
+9055:Caarapó
+9057:Cassilândia
+9059:Chapada dos Guimarães
+9061:Corguinho
+9063:Corumbá
+9065:Coxim
+9067:Cuiabá
+9069:Diamantino
+9071:Dom Aquino
+9073:Dourados
+9075:Fátima do Sul
+9077:General Carneiro
+9079:Glória de Dourados
+9081:Guia Lopes da Laguna
+9083:Guiratinga
+9085:Iguatemi
+9087:Inocência
+9089:Itaporã
+9091:Itiquira
+9093:Ivinhema
+9095:Jaciara
+9097:Jaraguari
+9099:Jardim
+9101:Jateí
+9103:Ladário
+9105:Luciara
+9107:Maracaju
+9109:Vila Bela da Santíssima Trindade
+9111:Miranda
+9113:Naviraí
+9115:Nioaque
+9117:Nobres
+9119:Nortelândia
+9121:Nossa Senhora do Livramento
+9123:Nova Andradina
+9125:Paranaíba
+9127:Pedro Gomes
+9129:Poconé
+9131:Ponta Porã
+9133:Ponte Branca
+9135:Porto dos Gaúchos
+9137:Porto Murtinho
+9139:Poxoréu
+9141:Ribas do Rio Pardo
+9143:Rio Brilhante
+9145:Rio Negro
+9147:Rio Verde de Mato Grosso
+9149:Rochedo
+9151:Rondonópolis
+9153:Rosário Oeste
+9155:Santo Antônio do Leverger
+9157:Sidrolândia
+9159:Terenos
+9161:Tesouro
+9163:Torixoréu
+9165:Três Lagoas
+9167:Várzea Grande
+9169:Angélica
+9171:Aral Moreira
+9173:Eldorado
+9175:Deodápolis
+9177:Mirassol d'Oeste
+9179:Mundo Novo
+9181:Pedra Preta
+9183:São Félix do Araguaia
+9185:Tangará da Serra
+9187:Vicentina
+9189:Juscimeira
+9191:Água Boa
+9193:Canarana
+9195:Nova Xavantina
+9197:Santa Terezinha
+9199:São José do Rio Claro
+9201:Abadiânia
+9203:Água Limpa
+9205:Alexânia
+9207:Almas
+9209:Aloândia
+9211:Alto Paraíso de Goiás
+9213:Alvorada
+9215:Alvorada do Norte
+9217:Amorinópolis
+9219:Ananás
+9221:Anápolis
+9223:Anhanguera
+9225:Anicuns
+9227:Aparecida de Goiânia
+9229:Aporé
+9231:Araçu
+9233:Aragarças
+9235:Aragoiânia
+9237:Araguacema
+9239:Araguaçu
+9241:Araguaína
+9243:Araguatins
+9245:Arapoema
+9247:Arraias
+9249:Aruanã
+9251:Aurilândia
+9253:Aurora do Tocantins
+9255:Avelinópolis
+9257:Axixá do Tocantins
+9259:Babaçulândia
+9261:Baliza
+9263:Barro Alto
+9265:Bela Vista de Goiás
+9267:Bom Jardim de Goiás
+9269:Bom Jesus de Goiás
+9271:Brazabrantes
+9273:Brejinho de Nazaré
+9275:Britânia
+9277:Buriti Alegre
+9279:Cabeceiras
+9281:Cachoeira Alta
+9283:Cachoeira de Goiás
+9285:Caçu
+9287:Caiapônia
+9289:Caldas Novas
+9291:Campestre de Goiás
+9293:Campinorte
+9295:Campo Alegre de Goiás
+9297:Campos Belos
+9299:Carmo do Rio Verde
+9301:Catalão
+9303:Caturaí
+9305:Cavalcante
+9307:Ceres
+9309:Divinópolis de Goiás
+9311:Colinas do Tocantins
+9313:Conceição do Tocantins
+9315:Córrego do Ouro
+9317:Corumbá de Goiás
+9319:Corumbaíba
+9321:Couto Magalhães
+9323:Cristalândia
+9325:Cristalina
+9327:Cristianópolis
+9329:Crixás
+9331:Cromínia
+9333:Cumari
+9335:Damianópolis
+9337:Damolândia
+9339:Davinópolis
+9341:Dianópolis
+9343:Diorama
+9345:Dois Irmãos do Tocantins
+9347:Dueré
+9349:Edéia
+9351:Estrela do Norte
+9353:Fazenda Nova
+9355:Filadélfia
+9357:Firminópolis
+9571:Rio Verde
+9573:Rubiataba
+9575:Sanclerlândia
+9577:Santa Bárbara de Goiás
+9579:Santa Cruz de Goiás
+9581:Santa Helena de Goiás
+9583:Santa Rita do Araguaia
+9585:Santa Rosa de Goiás
+9587:Santa Tereza de Goiás
+9589:Santa Terezinha de Goiás
+9591:São Domingos
+9593:São Francisco de Goiás
+9595:Planaltina
+9597:São João d'Aliança
+9599:São Luís de Montes Belos
+9601:São Miguel do Araguaia
+9603:São Sebastião do Tocantins
+9605:São Simão
+9607:Serranópolis
+9609:Silvânia
+9611:Sítio d'Abadia
+9613:Sítio Novo do Tocantins
+9615:Taguatinga
+9617:Taquaral de Goiás
+9619:Tocantínia
+9621:Tocantinópolis
+9623:Três Ranchos
+9625:Trindade
+9627:Guaraí
+9629:Presidente Kennedy
+9631:Turvânia
+9633:Uruaçu
+9635:Uruana
+9637:Urutaí
+9639:Varjão
+9641:Vianópolis
+9643:Xambioá
+9645:Acreúna
+9647:Minaçu
+9649:Palmeirópolis
+9651:Mundo Novo
+9653:Nova Crixás
+9655:Nova Glória
+9657:Vicentinópolis
+9659:Silvanópolis
+9661:Americano do Brasil
+9663:Nova Olinda
+9665:Wanderlândia
+9667:Figueirópolis
+9669:Araguapaz
+9671:Arenópolis
+9673:Cachoeira Dourada
+9675:Doverlândia
+9677:Santo Antônio do Descoberto
+9679:Rio Sono
+9681:Indiara
+9683:Fátima
+9685:Augustinópolis
+9687:Campinaçu
+9689:Santa Isabel
+9691:São Valério
+9693:Barrolândia
+9695:Bernardo Sayão
+9697:Combinado
+9699:Goianorte
+9701:Brasília
+9703:Novo Alegre
+9705:Pequizeiro
+9711:Marianópolis do Tocantins
+9713:Aparecida do Rio Negro
+9715:Buriti do Tocantins
+9717:Caseara
+9719:Divinópolis do Tocantins
+9721:Nova Rosalândia
+9723:Porto Alegre do Tocantins
+9725:Praia Norte
+9727:Sampaio
+9729:Santa Rosa do Tocantins
+9731:Santa Tereza do Tocantins
+9733:Palmas
+9735:Novo Planalto
+9737:Palestina de Goiás
+9739:Paranhos
+9741:Ribeirão Cascalheira
+9743:Santa Fé de Goiás
+9745:Santa Rita do Pardo
+9747:São João da Paraúna
+9749:São Luiz do Norte
+9751:São Miguel do Passa Quatro
+9753:Senador Canedo
+9755:Simolândia
+9757:Sonora
+9759:Teresina de Goiás
+9761:Trombas
+9763:Tapurah
+9765:Turvelândia
+9767:Alagoinha do Piauí
+9769:Adelândia
+9771:Água Fria de Goiás
+9773:Apiacás
+9775:Bonfinópolis
+9777:Campo Novo do Parecis
+9779:Campo Verde
+9781:Campos Verdes
+9783:Castanheira
+9785:Cezarina
+9787:Chapadão do Sul
+9789:Cláudia
+9791:Colinas do Sul
+9793:Dois Irmãos do Buriti
+9795:Edealina
+9797:Faina
+9799:Gouvelândia
+9801:Bodoquena
+9803:Costa Rica
+9805:Douradina
+9807:Itaquiraí
+9809:São Gabriel do Oeste
+9811:Selvíria
+9813:Sete Quedas
+9815:Tacuru
+9817:Taquarussu
+9819:Juara
+9821:Teutônia
+9823:Bom Princípio
+9825:Parobé
+9827:Fortaleza dos Valos
+9829:Jóia
+9831:Juína
+9833:Denise
+9835:Iranduba
+9837:Itamarati
+9839:Manaquiri
+9841:Presidente Figueiredo
+9843:Rio Preto da Eva
+9845:São Sebastião do Uatumã
+9847:Tabatinga
+9849:Uarini
+9851:Tonantins
+9853:Quixelô
+9855:Umirim
+9857:Varjota
+9859:Jaborandi
+9861:Jangada
+9863:Campinápolis
+9865:Cocalinho
+9867:Novo São Joaquim
+9869:Araguaiana
+9871:Primavera do Leste
+9873:Brasnorte
+9875:Porto Esperidião
+9877:Indiavaí
+9879:Reserva do Cabaçal
+9881:Figueirópolis D'Oeste
+9883:Comodoro
+9885:Paranaíta
+9887:Guarantã do Norte
+9889:Nova Canaã do Norte
+9891:Peixoto de Azevedo
+9893:Nova Olímpia
+9895:Porto Alegre do Norte
+9897:Vila Rica
+9899:Marcelândia
+9901:Itaúba
+9903:Novo Horizonte do Norte
+9905:Vera
+9907:Sorriso
+9909:Terra Nova do Norte
+9911:Alto Taquari
+9913:Nova Tebas
+9915:Diamante D'Oeste
+9917:Quiterianópolis
+9919:Itaguari
+9921:Juruena
+9923:Juti
+9925:Lucas do Rio Verde
+9927:Matrinchã
+9929:Matupá
+9931:Mimoso de Goiás
+9933:Montividiu
+9935:Morro Agudo de Goiás
+9937:Nova Mutum
+9939:Abdon Batista
+9941:Apiúna
+9943:Celso Ramos
+9945:Doutor Pedrinho
+9947:Godoy Moreira
+9949:Ibema
+9951:Iporã do Oeste
+9953:Iraceminha
+9955:Ivaté
+9957:José Boiteux
+9959:Lindoeste
+9961:Lindóia do Sul
+9963:Marema
+9965:Ouro Verde do Oeste
+9967:Santa Rosa do Sul
+9969:Santa Tereza do Oeste
+9971:Timbó Grande
+9973:União do Oeste
+9975:Urupema
+9977:Vitor Meireles
+9979:Bom Sucesso do Sul
+9981:Honório Serpa
+9983:Fazenda Rio Grande
+9985:Itapoá
+9989:Serra Alta
+9991:Tunápolis
+9993:Guarinos
+9995:Rio Quente
