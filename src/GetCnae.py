@@ -5,6 +5,10 @@ import numpy as np
 
 
 def Cnae_List():
+    """
+    Retorna a lista de CNAES segundo o arquivo csv disponibilizado pela receita.
+    """
+
     diretorio_atual = os.getcwd()
     arquivo_cnae = os.path.join(diretorio_atual, 'Dados_RFB', 'Cnae.csv')
     
@@ -18,6 +22,10 @@ def Cnae_List():
 
 
 def Selecionar_CNAE():
+    """
+    Cria uma caixa de seleção do CNAE principal para filtrar os estabelecimentos.
+    Atualiza ao clicar no botão 'Pesquisar'
+    """
     cnae_list = Cnae_List()
     
     layout = [

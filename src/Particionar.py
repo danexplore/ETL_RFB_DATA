@@ -1,22 +1,13 @@
 import os
 import pandas as pd
-import PySimpleGUI as sg
 
 diretorio_atual = os.getcwd()
 print(f'Diretório atual: {diretorio_atual}\n')
 dados_part_path = os.path.join(diretorio_atual, 'Dados_particionados')
 dados_rfb_path = os.path.join(diretorio_atual, 'Dados_RFB')
 
-arq_empresas = []
-arq_estabelecimentos = []
-
-for i, arquivo in enumerate(os.listdir(dados_rfb_path)):
-    if 'Empre' in arquivo:
-        arq_empresas.append(arquivo)
-    elif 'Estabele' in arquivo:
-        arq_estabelecimentos.append(arquivo)
-    else:
-        continue
+arq_empresas = [empre for empre in os.listdir(dados_rfb_path) if 'Empre' in empre]
+arq_estabelecimentos = [estb for estb in os.listdir(dados_rfb_path) if 'Estabele' in estb]
 
 print(f'Quantidade de arquivos de empresas: {len(arq_empresas)}\n'
       + f'Quantidade de arquivos de estabelecimentos {len(arq_estabelecimentos)}')
