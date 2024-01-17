@@ -30,12 +30,15 @@ def Selecionar_CNAE():
     
     layout = [
     [sg.Text("Pesquisar CNAE:"), sg.InputText(key="-PESQUISAR-", size=(20, 1)), sg.Button("Pesquisar")],
-    [sg.Listbox(values=[], size=(40, 10), key="-CNAE_LIST-", select_mode=sg.LISTBOX_SELECT_MODE_SINGLE)],
+    [sg.Listbox(values=[], size=(40, 10), key="-CNAE_LIST-", enable_events=True, select_mode=sg.LISTBOX_SELECT_MODE_MULTIPLE)],
+    [sg.Text('CNAES'), sg.Listbox(values=[], key='-TEXTO-', size=(40,6))],
     [sg.Button("Selecionar"), sg.Button("Fechar")]
     ]
 
     window = sg.Window("Pesquisa de CNAEs", layout)
-    selected_cnae = ''
+    selected_cnae = []
+    selected_value = []
+    cnaes_selecionados_mostrar = []
 
     while True:
         event, values = window.read()
@@ -51,18 +54,24 @@ def Selecionar_CNAE():
                 update_text.append(text)
             window["-CNAE_LIST-"].update(values=update_text)
         elif event == "Selecionar":
-            selected_value = values["-CNAE_LIST-"][0] if values["-CNAE_LIST-"] else None
-
-            if selected_value:
-                selected_cnae = selected_value.split(" - ")[0]
-                print("CNAE selecionado:", selected_cnae)
-                break
-            
+            selected_value.append(values["-CNAE_LIST-"] if values["-CNAE_LIST-"] else None)
+            window['-CNAE_LIST-'].update(set_to_index=-1)
+            for cnae_desc in selected_value:
+                selected_cnae.clear()
+                selected_cnae.append(cnae_desc)
+            if len(selected_cnae) > 0:
+                for i, cnae in enumerate(selected_cnae[0], start=0):
+                    cnaes_selecionados = [cnae for cnae in selected_cnae]
+                    cnaes_selecionados_mostrar.append(cnae)
+                window['-TEXTO-'].update(values=cnaes_selecionados_mostrar)
+        
     window.close()
-    return int(selected_cnae)
+    return cnaes_selecionados[0]
 
 def main():
-    Selecionar_CNAE()
+    cnaes = Selecionar_CNAE()
+    numeros_do_cnae = [numero.split(' - ')[0] for numero in cnaes]
+    return numeros_do_cnae
 
 if __name__ == '__main__':
     main()
