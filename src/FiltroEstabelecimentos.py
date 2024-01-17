@@ -54,9 +54,12 @@ df_final = df_final.loc[df_final['Cnae Principal'] == cnae]
 df_final = df_final.sort(by='Matriz/Filial')
 df_final = df_final.drop_duplicates(subset=['Correio Eletrônico'], keep='first')
 
-# Remove todos os e-mails contendo os seguintes complementos ou domínios que não utilizo, também e-mails invalidos e de contábeis
+# Remove todos os e-mails contendo os seguintes complementos ou domínios que não utilizo, também e-mails invalidos e de contábeis.
 lista_exclusao = ['contab', '@bol', '@uol', '@globo', '@ig', '@msn', '@terra', '@brturbo', 'xxx', '000000', ',']
-df_final = df_final[df_final['Correio Eletrônico'].isin(lista_exclusao)]
+
+# Os e-mails são removidos ao usar o metodo drop com a lista dos indicies de cada linha que contém os e-mails inválidos.
+indices = [x for x in df_final['Correio Eletrônico'].index if x in lista_exclusao]
+df_final = df_final['Correio Eletrônico'].drop(labels=indices, axis=0)
 
 # Reset index após filtros
 df_final = df_final.reset_index(drop=True)
