@@ -40,14 +40,11 @@ df_estb_filtro['CNPJ Básico'] = df_estb_filtro['CNPJ Básico'].astype(pd.String
 df_merged = df_empre.merge(df_estb_filtro, on=["CNPJ Básico"], how="inner")
 
 # Removendo colunas inutilizadas para o meu propósito, caso necessite basta remover o nome da lista
-df_merged = df_merged.drop(columns=['CNPJ Básico', 'Capital Social', 'Situação Cadastral', 'Cnae Principal', 'Matriz/Filial',
-                                    'Data da Situação Cadastral', 'Município'])
+df_merged = df_merged.drop(columns=['CNPJ Básico', 'Capital Social', 'Situação Cadastral', 'Cnae Principal', 'Cnae Secundário',
+                                    'Matriz/Filial', 'Data da Situação Cadastral', 'Município', 'Porte da Empresa', 'CNPJ Completo'])
 
 # Filtrando as UFs que eu quero extrair, para carregar todas as UFs remova esta linha.
 df_merged = df_merged[df_merged['UF'].isin(['AC','AP','DF','TO'])]
-
-# Classificando por UF de ordem ascendente, ex.: 'TO', 'AP', 'DF', 'AC' para >> 'AC', 'AP', 'DF', 'TO'
-df_merged = df_merged.sort(by='UF')
 
 # COMPUTING
 with pbar():
@@ -60,5 +57,5 @@ output_end_file_xlsx = os.path.join(output_path + f'\\merged.xlsx')
 df_merged.to_csv(output_end_file_csv, sep=';', index=False, header=True, encoding='utf-8')
 
 # XLSX das empresas
-with pd.ExcelWriter(output_end_file_xlsx, engine='opnepyxl') as writer:
-    df_merged.to_excel(excel_writer=writer, sheet_name='Merged', index=False, header=True, encoding='utf-8')
+with pd.ExcelWriter(output_end_file_xlsx, engine='openpyxl') as writer:
+    df_merged.to_excel(excel_writer=writer, sheet_name='Merged', index=False, header=True)
