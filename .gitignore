@@ -1,3 +1,4 @@
 *.csv
+*.xlsx
 
-unit_test.py
+*.png
