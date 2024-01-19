@@ -1,13 +1,13 @@
 # Projeto ETL - Receita Federal do Brasil
 
-Este projeto realiza a extração, transformação e carga (ETL) dos dados públicos da Receita Federal do Brasil. O objetivo é fornecer uma visualização fácil e intuitiva, e de maneira simples a utilização dos dados.
+Este projeto realiza a Extração, Transformação e Carga (ETL) dos dados públicos da Receita Federal do Brasil, visando proporcionar uma visualização fácil e intuitiva, simplificando o acesso aos dados.
 
 ## Funcionalidades
 * **Extrair:** Extração dos dados obtidos da RFB.
 
-* **Transformar:** Transformar os dados brutos em dados necessários para utilização pessoal.
+* **Transformar:** Transformar os dados brutos em dados limpos e 
 
-* **Carregar:** Apresentar os dados de forma amigável, utilizando tabelas, facilitando o uso dos dados.
+* **Carregar:** Apresenta os dados de maneira amigável, utilizando tabelas para facilitar a utilização.
 
 ## Requisitos do Sistema
 * Python (versão utilizada 3.12)
@@ -25,12 +25,11 @@ Este projeto realiza a extração, transformação e carga (ETL) dos dados públ
 * Layout dos dados (para compreender e utilizar os arquivos)
 
 ## Inspiração
-Esse projeto foi inspirado por outro projeto, porém completo feito pelo Cientista de Dados Allan Batista Martins: **[Github com o projeto original](https://github.com/allanbmartins/Projeto_ETL_RFB_IBGE_ANP)**
+Este projeto foi inspirado por outro projeto mais abrangente, desenvolvido pelo Cientista de Dados Allan Batista Martins. Você pode conferir o projeto original no seguinte **[Github](https://github.com/allanbmartins/Projeto_ETL_RFB_IBGE_ANP)**
 
-Eu utilizei o seu projeto para separar os arquivos em partes, usando a função split_csv_pandas_todos, pois estava indeciso de como iniciar o projeto.
-estarei dando continuidade neste projeto pessoal para transformar os dados segundo a minha necessidade.
+Utilizei a estrutura desse projeto como base, aproveitando a função split_csv_pandas_todos para dividir os arquivos em partes. Estou continuando este projeto de forma pessoal para adaptar os dados de acordo com as minhas necessidades.
 
 ### Resultado
-Após os filtros e merge, aqui está o resultado, o programa demora em média 2-3 minutos para finalizar, por conta do dask.DataFrame.compute(), cada compute demora em média 85 segundos para concluir.
+Após aplicar os filtros e realizar a operação de merge, apresento o resultado final. O programa tem uma média de conclusão de 2-3 minutos devido à execução do `dask.DataFrame.compute()`, sendo que cada operação de compute leva em média 85 segundos para ser concluída.
 
 ![image](https://github.com/danexplore/ETL_RFB_DATA/assets/74932150/e545cf39-cb4c-43f3-a299-5ea22a04f6db)
