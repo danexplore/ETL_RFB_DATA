@@ -25,6 +25,12 @@ Este projeto realiza a extração, transformação e carga (ETL) dos dados públ
 * Layout dos dados (para compreender e utilizar os arquivos)
 
 ## Inspiração
-Esse projeto foi inspirado por outro projeto, porém completo feito pelo Cientista de Dados Allan Batista Martins: **[Github com o projeto Original](https://github.com/allanbmartins/Projeto_ETL_RFB_IBGE_ANP)**
+Esse projeto foi inspirado por outro projeto, porém completo feito pelo Cientista de Dados Allan Batista Martins: **[Github com o projeto original](https://github.com/allanbmartins/Projeto_ETL_RFB_IBGE_ANP)**
 
-Eu utilizei o seu projeto para extrair os dados e separar os arquivos, estarei dando continuidade neste projeto pessoal para melhor utilização e assim ampliar meus aprendizados.
+Eu utilizei o seu projeto para separar os arquivos em partes, usando a função split_csv_pandas_todos, pois estava indeciso de como iniciar o projeto.
+estarei dando continuidade neste projeto pessoal para transformar os dados segundo a minha necessidade.
+
+### Resultado
+Após os filtros e merge, aqui está o resultado, o programa demora em média 2-3 minutos para finalizar, por conta do dask.DataFrame.compute(), cada compute demora em média 85 segundos para concluir.
+
+![image](https://github.com/danexplore/ETL_RFB_DATA/assets/74932150/e545cf39-cb4c-43f3-a299-5ea22a04f6db)
