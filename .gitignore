@@ -1,4 +1,8 @@
 # Arquivos RFB e Outputs
 *.csv
 
+build/
+dist/
+*.spec
+
 unit_test.py
