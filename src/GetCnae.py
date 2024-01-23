@@ -30,13 +30,14 @@ def Selecionar_CNAE():
     
     layout = [
     [sg.Text("Pesquisar CNAE:"), sg.InputText(key="-PESQUISAR-", size=(20, 1)), sg.Button("Pesquisar")],
-    [sg.Listbox(values=[], size=(40, 10), key="-CNAE_LIST-", enable_events=True, select_mode=sg.LISTBOX_SELECT_MODE_MULTIPLE)],
-    [sg.Text('CNAES'), sg.Listbox(values=[], key='-TEXTO-', size=(40,6))],
+    [sg.Listbox(values=[], size=(65, 15), key="-CNAE_LIST-", enable_events=True, select_mode=sg.LISTBOX_SELECT_MODE_MULTIPLE)],
+    [sg.Text('CNAES'), sg.Listbox(values=[], key='-TEXTO-', size=(40,10))],
     [sg.Button("Adicionar Cnaes"), sg.Button('Limpar')],
     [sg.Button("Salvar e Finalizar")]
     ]
 
-    window = sg.Window("Pesquisa de CNAEs", layout)
+    window = sg.Window("Pesquisa de CNAEs", layout, size=(800, 600))    
+
     cnaes_selecionados_mostrar = []
 
     while True:
