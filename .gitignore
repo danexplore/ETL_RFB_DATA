@@ -1,3 +1,12 @@
+# Arquivos RFB e Outputs
 *.csv
+*.xlsx
 
+# Arquivos gerados pelo PyInstaller 
+dist/
+build/
+*.spec
+
+# Tests
 unit_test.py
+Saída/merged.xlsx

@@ -3,6 +3,7 @@ import os
 diretorio_atual = os.getcwd()
 dados_part_path = os.path.join(diretorio_atual, 'Dados_particionados')
 output_path = os.path.join(diretorio_atual, 'Saída')
+desktop_path = 'C:\\Users\\DanielMoreiraBatista\\OneDrive - Unyleya Educacional\\Área de Trabalho\\E-mails do Script'
 
 arq_empresas = [arquivo for arquivo in os.listdir(dados_part_path) if 'Empre' in arquivo]
 
@@ -46,12 +47,24 @@ df_merged = df_merged.drop(columns=['CNPJ Básico', 'Capital Social', 'Situaçã
 # Filtrando as UFs que eu quero extrair, para carregar todas as UFs remova esta linha.
 df_merged = df_merged[df_merged['UF'].isin(['AC','AP','DF','TO'])]
 
+# Transforma o texto maiúsculo ou minúsculo em formato camel_case ou título
+def para_título(frase):
+    if frase.find(' ') != -1:
+        palavras = frase.split(' ')
+        palavras_formatadas = [palavra.capitalize() for palavra in palavras]
+        resultado = ' '.join(palavras_formatadas)
+    else:
+        return frase.capitalize()
+    return resultado
+
+df_merged['Nome Fantasia'] = df_merged['Nome Fantasia'].apply(para_título)
+
 # COMPUTING
 with pbar():
     df_merged = df_merged.compute()
 
 output_end_file_csv = os.path.join(output_path + f'\\merged.csv')
-output_end_file_xlsx = os.path.join(output_path + f'\\merged.xlsx')
+output_end_file_xlsx = os.path.join(desktop_path + f'\\merged.xlsx')
 
 # CSV das empresas
 df_merged.to_csv(output_end_file_csv, sep=';', index=False, header=True, encoding='utf-8')

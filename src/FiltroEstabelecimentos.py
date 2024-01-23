@@ -53,13 +53,17 @@ df_final = df_final[df_final['Cnae Principal'].isin(cnaes)]
 # Remove e-mails duplicados de filiais e mantém somente o email da empresa matriz.
 df_final = df_final.drop_duplicates(subset=['Correio Eletrônico'], keep='first')
 
+# Transforma todos os e-mails em minúsuculo
+df_final = df_final['Correio Eletrônico'].str.lower()
+
 # Função para verificar se a linha contém um padrão indesejado
 def contem_padrao_indesejado(email):
     padroes_indesejados = ['contab', '@bol', '@uol', '@globo', '@ig', '@msn', '@terra', '@brturbo', 'xxx', '000000', ',']
     for padrao in padroes_indesejados:
-        if padrao in email.lower():
+        if padrao in email:
             return True
     return False
+
 df_final = df_final[~df_final['Correio Eletrônico'].apply(contem_padrao_indesejado, meta=('x', 'bool'))]
 
 # Reset index após filtros
