@@ -40,12 +40,14 @@ df_estb_filtro['CNPJ Básico'] = df_estb_filtro['CNPJ Básico'].astype(pd.String
 # Esse é o único propósito do merge 
 df_merged = df_empre.merge(df_estb_filtro, on=["CNPJ Básico"], how="inner")
 
-# Removendo colunas inutilizadas para o meu propósito, caso necessite basta remover o nome da lista
-df_merged = df_merged.drop(columns=['CNPJ Básico', 'Capital Social', 'Situação Cadastral', 'Cnae Principal', 'Cnae Secundário',
-                                    'Matriz/Filial', 'Data da Situação Cadastral', 'Município', 'Porte da Empresa', 'CNPJ Completo'])
-
 # Filtrando as UFs que eu quero extrair, para carregar todas as UFs remova esta linha.
 df_merged = df_merged[df_merged['UF'].isin(['AC','AP','DF','TO'])]
+
+# Completa células do df que tiverem com o valor NaN para ''
+df_merged['Nome Fantasia'] = df_merged['Nome Fantasia'].fillna('')
+
+df_merged['Nome Fantasia'] = df_merged.apply(lambda row: row['Nome Fantasia'] if row['Nome Fantasia'] != ''
+                                             else row['Razão Social'], axis=1, meta=('Razão Social', 'object'))
 
 # Transforma o texto maiúsculo ou minúsculo em formato camel_case ou título
 def para_título(frase):
@@ -57,7 +59,12 @@ def para_título(frase):
         return frase.capitalize()
     return resultado
 
-df_merged['Nome Fantasia'] = df_merged['Nome Fantasia'].apply(para_título)
+df_merged['Nome Fantasia'] = df_merged['Nome Fantasia'].apply(para_título, meta=('Nome Fantasia', 'object'))
+
+# Removendo colunas inutilizadas para o meu propósito, caso necessite basta remover o nome da lista
+df_merged = df_merged.drop(columns=['CNPJ Básico', 'Capital Social', 'Situação Cadastral', 'Cnae Principal', 'Cnae Secundário',
+                                    'Matriz/Filial', 'Data da Situação Cadastral', 'Município', 'Porte da Empresa', 'CNPJ Completo',
+                                    'Razão Social'])
 
 # COMPUTING
 with pbar():

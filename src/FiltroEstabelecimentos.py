@@ -54,7 +54,7 @@ df_final = df_final[df_final['Cnae Principal'].isin(cnaes)]
 df_final = df_final.drop_duplicates(subset=['Correio Eletrônico'], keep='first')
 
 # Transforma todos os e-mails em minúsuculo
-df_final = df_final['Correio Eletrônico'].str.lower()
+df_final['Correio Eletrônico'] = df_final['Correio Eletrônico'].str.lower()
 
 # Função para verificar se a linha contém um padrão indesejado
 def contem_padrao_indesejado(email):
