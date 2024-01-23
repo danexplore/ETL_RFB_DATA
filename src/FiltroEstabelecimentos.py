@@ -58,7 +58,8 @@ df_final['Correio Eletrônico'] = df_final['Correio Eletrônico'].str.lower()
 
 # Função para verificar se a linha contém um padrão indesejado
 def contem_padrao_indesejado(email):
-    padroes_indesejados = ['contab', '@bol', '@uol', '@globo', '@ig', '@msn', '@terra', '@brturbo', 'contador', 'xxx', '000000', ',']
+    padroes_indesejados = ['contab', '@bol', '@uol', '@globo', '@ig', '@msn', '@terra', '@brturbo', 'contador', 'xxx',
+                           '000', '***', ',']
     for padrao in padroes_indesejados:
         if padrao in email:
             return True
