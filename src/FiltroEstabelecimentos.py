@@ -63,6 +63,8 @@ def contem_padrao_indesejado(email):
     for padrao in padroes_indesejados:
         if padrao in email:
             return True
+        if '@' not in email:
+            return True
     return False
 
 df_final = df_final[~df_final['Correio Eletrônico'].apply(contem_padrao_indesejado, meta=('x', 'bool'))]
