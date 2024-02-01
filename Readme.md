@@ -17,6 +17,7 @@ Este projeto realiza a Extração, Transformação e Carga (ETL) dos dados públ
 ## Fontes
 * Fonte oficial da Receita Federal do Brasil: [SITE](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)
 * Fonte separada para download dos arquivos: [SITE](https://dadosabertos.rfb.gov.br/CNPJ/)
+* Faça o download dos `Dados_particionados` no link (Senha para acesso: 1234): [Download](https://www.transfernow.net/dl/202402019GMwmeVX)
 
 #### Arquivos baixados:
 * Cnaes.zip
