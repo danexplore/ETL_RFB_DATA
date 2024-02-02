@@ -34,7 +34,9 @@ Utilizei a estrutura desse projeto como base, aproveitando a função split_csv_
 Após aplicar os filtros e realizar a operação de merge, apresento o resultado final. O programa tem uma média de conclusão de 2-3 minutos devido à execução do `dask.DataFrame.compute()`, sendo que cada operação de compute leva em média 85 segundos para ser concluída.
 
 **Janela de seleção do CNAE**
+
 ![image](https://github.com/danexplore/ETL_RFB_DATA/blob/4407924215a97e43e4260deca6bbc4de81fb4ce5/Cnae_select_window.png?raw=true)
 
 **Resultado no Excel**
+
 ![image](https://github.com/danexplore/ETL_RFB_DATA/assets/74932150/e545cf39-cb4c-43f3-a299-5ea22a04f6db)
