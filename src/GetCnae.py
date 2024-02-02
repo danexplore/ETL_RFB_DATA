@@ -38,7 +38,8 @@ def Selecionar_CNAE():
 
     window = sg.Window("Pesquisa de CNAEs", layout, size=(800, 600))    
 
-    cnaes_selecionados_mostrar = []
+    cnaes_selecionados = []
+    cnaes_selecionados = []
 
     while True:
         event, values = window.read()
@@ -70,17 +71,16 @@ def Selecionar_CNAE():
     
             if len(selected_cnae) > 0:
                 for cnae in selected_cnae[0]:
-                    cnaes_selecionados = [cnae for cnae in selected_cnae]
-                    cnaes_selecionados_mostrar.append(cnae)
-                window['-TEXTO-'].update(values=cnaes_selecionados_mostrar)
+                    cnaes_selecionados.append(cnae)
+                window['-TEXTO-'].update(values=cnaes_selecionados)
         
         # Limpa os cnaes selecionados
         elif event == 'Limpar':
-            cnaes_selecionados_mostrar.clear()
-            window['-TEXTO-'].update(values=cnaes_selecionados_mostrar)
+            cnaes_selecionados.clear()
+            window['-TEXTO-'].update(values=cnaes_selecionados)
         
     window.close()
-    return cnaes_selecionados[0]
+    return cnaes_selecionados
 
 def get_cnaes_number():
     cnaes = Selecionar_CNAE()

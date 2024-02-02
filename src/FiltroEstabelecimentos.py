@@ -48,6 +48,7 @@ df_final = df_final.loc[df_final['Situação Cadastral'] == 2]
 
 # Filtrando por CNAE
 cnaes = get_cnaes()
+print(f'Cnaes selecionados: {[cnae for cnae in cnaes]}\n')
 df_final = df_final[df_final['Cnae Principal'].isin(cnaes)]
 
 # Remove e-mails duplicados de filiais e mantém somente o email da empresa matriz.
