@@ -1,6 +1,7 @@
 # Arquivos RFB e Outputs
 *.csv
 
+__pycache__/
 build/
 dist/
 *.spec
